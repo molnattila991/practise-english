@@ -31,11 +31,11 @@ const counter = useCounterStore()
       </v-card-text>
     </v-card>
   </div>
-  <!-- 
-  <div v-for="sentence in dataStore.selectedSentences" :key="sentence.id">
-    <div>{{ sentence.title }}</div>
-    <div>{{ sentence.text }}</div>
-  </div> -->
+  <div v-else>
+    <v-card class="pa-4 mt-4">
+      <v-card-title>Select topics from menu and push "Next" button.</v-card-title>
+    </v-card>
+  </div>
 </template>
 
 <style scoped>
