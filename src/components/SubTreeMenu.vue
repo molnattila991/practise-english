@@ -12,7 +12,7 @@
 
 <script setup>
 
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import { useDataStore } from '../stores/dataStore'
 
 defineProps({
@@ -20,6 +20,11 @@ defineProps({
 })
 
 const dataStore = useDataStore()
+
+onMounted(() => {
+  dataStore.loadFromLocalStorage()
+})
+
 const selectedItems = ref([])
 
 </script>

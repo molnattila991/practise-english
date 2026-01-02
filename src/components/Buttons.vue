@@ -1,6 +1,8 @@
 <script setup>
 import { useCounterStore } from '../store/counter';
+import { useDataStore } from '../stores/dataStore';
 const counter = useCounterStore()
+const dataStore = useDataStore()
 
 </script>
 
@@ -10,7 +12,7 @@ const counter = useCounterStore()
       <v-btn  @click="counter.increment()" block color="primary">Button 1</v-btn>
     </v-col>
     <v-col cols="6">
-      <v-btn @click="counter.increment()" block color="secondary">Button 2</v-btn>
+      <v-btn @click="dataStore.pickRandomSentence" block color="secondary">Button 2</v-btn>
     </v-col>
   </v-row>
 </template>

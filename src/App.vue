@@ -1,5 +1,5 @@
 <script setup>
-import { ref } from 'vue'
+import { ref, onMounted } from 'vue'
 import { useTheme } from 'vuetify'
 import HelloWorld from './components/HelloWorld.vue'
 import Buttons from './components/Buttons.vue'
@@ -8,7 +8,11 @@ import { useDataStore } from './stores/dataStore'
 
 const theme = useTheme()
 const drawer = ref(false)
+const dataStore = useDataStore()
 
+onMounted(() => {
+  dataStore.pickRandomSentence()
+})
 
 const toggleTheme = () => {
   theme.global.name.value = theme.global.name.value === 'light' ? 'dark' : 'light'
@@ -33,7 +37,7 @@ const toggleTheme = () => {
         <v-icon>mdi-theme-light-dark</v-icon>
       </v-btn>
     </v-app-bar>
-    <v-main>
+    <v-main style="padding: 0;">
       <v-container>
         <HelloWorld msg="Welcome to Vuetify 3" />
       </v-container>
