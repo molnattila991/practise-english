@@ -1,0 +1,3285 @@
+{
+    "topics": [
+        {
+            "title": "Igeidők",
+            "items": [
+                {
+                    "title": "Jövő",
+                    "items": [
+                        {
+                            "title": "Egyszerű jövő - Future Simple",
+                            "sentences": [
+                                {
+                                    "eng": "Tom will be here soon.",
+                                    "hun": "Tom hamarosan itt lesz.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I will be a doctor.",
+                                    "hun": "Orvos leszek.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The letter will be on the table.",
+                                    "hun": "A levél az asztalon lesz.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will they be there?",
+                                    "hun": "Ott lesznek?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Where will the dinner be?",
+                                    "hun": "Hol lesz a vacsora?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Who will be the first?",
+                                    "hun": "Ki lesz az első?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I won't be on time.",
+                                    "hun": "Nem leszek pontos.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "She won't be in the building.",
+                                    "hun": "Nem lesz az épületben.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will you visit us some time?",
+                                    "hun": "Meg fogsz látogatni minket valamikor?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When will the plane take off?",
+                                    "hun": "Mikor fog a gép felszállni?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "How will they get a ticket?",
+                                    "hun": "Hogyan fognak jegyet szerezni?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I will call you at 7.",
+                                    "hun": "30.",
+                                    "details": "7"
+                                },
+                                {
+                                    "eng": "She will come next week.",
+                                    "hun": "Jövő héten el fog jönni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Mary and Steve will divorce.",
+                                    "hun": "Mary és Steve el fognak válni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I will buy bread.",
+                                    "hun": "Veszek majd kenyeret.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I will be 32 next month.",
+                                    "hun": "Jövő hónapban leszek 32 éves.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "John won't like the idea.",
+                                    "hun": "Johnnak nem fog tetszeni az ötlet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Bruce won't get up till 11.",
+                                    "hun": "Bruce nem fog felkelni 11-ig.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I won't read this book.",
+                                    "hun": "Nem fogom elolvasni ezt a könyvet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will you water the flowers?",
+                                    "hun": "Meg fogod locsolni a virágokat?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Where will they live?",
+                                    "hun": "Hol fognak lakni?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Who will you meet tomorrow?",
+                                    "hun": "Kivel fogsz találkozni holnap?",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Folyamatos jövő - Future Continuous",
+                            "sentences": [
+                                {
+                                    "eng": "When you come home, we'll be sleeping.",
+                                    "hun": "Amikor hazajössz, mi (éppen) aludni fogunk.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When her plane lands in London, we will only be travelling towards London.",
+                                    "hun": "Amikor leszáll a gépe Londonban, mi még csak utazni fogunk London felé.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "What will you be doing at noon tomorrow?",
+                                    "hun": "Mit fogsz csinálni holnap délben?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will you be waiting for her too when she finishes work?",
+                                    "hun": "Te is várni fogsz rá, mikor befejezi a munkát?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "While you are working, I will be reading.",
+                                    "hun": "Amíg te dolgozol, én olvasni fogok.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "While she is cooking, we will be playing.",
+                                    "hun": "Amíg főz, játszani fogunk.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "While you are running, he'll be sleeping.",
+                                    "hun": "Amíg te futsz, ő aludni fog.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Bob will be waiting outside while you are talking.",
+                                    "hun": "Bob kint fog várni, amíg ti beszélgettek.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Where will you be sleeping while they are painting your room?",
+                                    "hun": "Hol fogsz aludni, amíg festik a szobádat?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "While you are cleaning, I'll turn off the heating.",
+                                    "hun": "Amíg takarítasz, lekapcsolom majd a fűtést.",
+                                    "details": "(A lekapcsolás egy pillanatnyi cselekvés, nem végezzük folyamatosan"
+                                },
+                                {
+                                    "eng": "I'll be meeting John tomorrow.",
+                                    "hun": "Holnap találkozom John-nal.",
+                                    "details": "(Mert például együtt dolgozunk"
+                                },
+                                {
+                                    "eng": "I'll be taking my exam next week.",
+                                    "hun": "Jövő héten vizsgázom.",
+                                    "details": "(=I'm taking my exam...)"
+                                },
+                                {
+                                    "eng": "Will you be having dinner at home this evening?",
+                                    "hun": "Otthon fogsz ma vacsorázni?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will you be using the computer?",
+                                    "hun": "Használni fogod a számítógépet?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They will be singing all night.",
+                                    "hun": "Egész éjjel énekelni fognak.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The machine will be working all week.",
+                                    "hun": "A gép egész héten menni fog.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will you be staying there all Christmas?",
+                                    "hun": "Egész Karácsonykor ott leszel?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Jack will be sleeping all day.",
+                                    "hun": "Jack egész nap aludni fog.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We won't be eating all day.",
+                                    "hun": "Egész nap nem fogunk enni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I won't be staying for long.",
+                                    "hun": "Nem fogok sokáig maradni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They won't be waiting for you.",
+                                    "hun": "Nem fognak várni rád.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "He won't be learning then.",
+                                    "hun": "Nem fog akkor tanulni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "What will you be doing at this time tomorrow?",
+                                    "hun": "Mit fogsz csinálni holnap ilyenkor?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will she be eating while we are here?",
+                                    "hun": "Enni fog, amíg mi itt leszünk?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "How will he be driving in such weather?",
+                                    "hun": "Hogy fog ilyen időben vezetni?",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Befejezett jövő - Future Perfect",
+                            "sentences": [
+                                {
+                                    "eng": "Bob will have written the essay by six.",
+                                    "hun": "Bob hatra meg fogja írni a dolgozatot.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They won't have started by 10:30.",
+                                    "hun": "Nem fognak 10:30-ra elindulni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By the time you get up, I will have made coffee.",
+                                    "hun": "Mire felkelsz, csinálok (majd) kávét.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "He will have repaired the door before you come home.",
+                                    "hun": "Meg fogja javítani az ajtót, mielőtt hazajössz.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By the end of this year I will have lived here for 10 years.",
+                                    "hun": "Ez év végén lesz 10 éve, hogy itt lakom.",
+                                    "details": "(10 éve fogok itt lakni ez év végén"
+                                },
+                                {
+                                    "eng": "Will he have got the letter before he leaves for Italy?",
+                                    "hun": "Meg fogja kapni a levelet, mielőtt elindul Olaszországba?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Michael won't have seen Sue for a year by next month.",
+                                    "hun": "Jövő hónapban lesz egy éve, hogy nem látta Michael Sue-t.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I will have taken the exam by this time next week.",
+                                    "hun": "Jövő hét ilyenkorra meglesz a vizsgám.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will you have been ready by then?",
+                                    "hun": "Készen leszel addigra?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We won't have arrived by the start of the play.",
+                                    "hun": "Nem fogunk odaérni a darab kezdetére.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By the time Joe's plane lands, I will have parked his car in front of the airport.",
+                                    "hun": "Mire leszáll Joe gépe, leparkolom az autóját a repülőtér elé.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We won't have arrived by 10.",
+                                    "hun": "Nem fogunk odaérni 10-re.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They won't have woken up by 9.",
+                                    "hun": "Nem fognak 9-re felébredni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will you have finished it by that time?",
+                                    "hun": "Be fogod fejezni addigra?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "How will they have written all the letters by the evening?",
+                                    "hun": "Hogyan fogják megírni az összes levelet estig?",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Folyamatos befejezett jövő - Future Perfect Continuous",
+                            "sentences": [
+                                {
+                                    "eng": "By the time you return from the USA, we will have been building our new house.",
+                                    "hun": "Mire visszajössz az USA-ból, mi már építeni fogjuk az új házunkat.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When he gets up, Mary will have been working.",
+                                    "hun": "Mikor felkel, Mary már dolgozni fog.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By 9 he will have been showing the guests around.",
+                                    "hun": "9-kor már a vendégeket fogja körbekísérni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By this time tomorrow we will have been travelling.",
+                                    "hun": "Holnap ilyenkor már utazni fogunk.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will you have been waiting for us?",
+                                    "hun": "Te már várni fogsz minket?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I won't have been working for a week by then.",
+                                    "hun": "Addigra már egy hete nem fogok dolgozni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When we return, they will have been sleeping.",
+                                    "hun": "Mire visszajövünk, már aludni fognak.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By the time Bob gets the letter, I will have been working in Alaska.",
+                                    "hun": "Mire Bob megkapja a levelet, én már Alaszkában fogok dolgozni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will she have been negotiating at 10?",
+                                    "hun": "Tízkor már tárgyalni fog?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We won't have been trvelling at 10.",
+                                    "hun": "Tízkor már nem fogunk utazni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Will you have been doing it by then?",
+                                    "hun": "Akkor már azt fogod csinálni?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "How will they have been writing it by the evening?",
+                                    "hun": "Hogyan fogják este már azt írni?",
+                                    "details": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Jelen",
+                    "items": [
+                        {
+                            "title": "Egyszerű jelen - Present Simple",
+                            "sentences": [
+                                {
+                                    "eng": "I live in a small town.",
+                                    "hun": "Egy kisvárosban lakom.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Mary likes tennis.",
+                                    "hun": "Mary szereti a teniszt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "He always gets up at 6 o'clock.",
+                                    "hun": "Mindig 6-kor kel.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Usually I meet my friends at the weekends.",
+                                    "hun": "Általában hétvégente találkozom a barátaimmal.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We have a very old car.",
+                                    "hun": "Egy nagyon régi autónk van.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Tom is 33 years old.",
+                                    "hun": "Tom 33 éves.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I don't like handball.",
+                                    "hun": "Nem szeretem a kézilabdát.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Susan doesn't have cats.",
+                                    "hun": "Susannek nincsenek macskái.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "He doesn't always read the newspaper.",
+                                    "hun": "Nem mindig olvassa el az újságot.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Do you have a camera?",
+                                    "hun": "Van fényképezőgéped?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Does the dog like milk?",
+                                    "hun": "Szereti a kutya a tejet?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I do not have a house.",
+                                    "hun": "= I don't have a house.",
+                                    "details": "Nincs házam"
+                                },
+                                {
+                                    "eng": "This cat does not live here.",
+                                    "hun": "Ez a macska nem itt lakik.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Do you live near here?",
+                                    "hun": "A közelben laksz?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Does your brother study at university?",
+                                    "hun": "A testvéred egyetemen tanul?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "He loves football.",
+                                    "hun": "Imádja a focit.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Does he love football?",
+                                    "hun": "Imádja a focit?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "He doesn't love football.",
+                                    "hun": "Nem imádja a focit.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "She sleeps a lot.",
+                                    "hun": "Sokat alszik.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Does she sleep a lot?",
+                                    "hun": "Sokat alszik?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "She doesn't sleep a lot.",
+                                    "hun": "Nem alszik sokat.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "It works well.",
+                                    "hun": "Jól működik.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Does it work well?",
+                                    "hun": "Jól működik?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "It doesn't work well.",
+                                    "hun": "Nem működik jól.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "John runs every day.",
+                                    "hun": "John minden nap fut.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Does John run every day?",
+                                    "hun": "Fut John minden nap?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "John doesn't run every day.",
+                                    "hun": "John nem fut minden nap.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Folyamatos jelen - Present Continuous",
+                            "sentences": [
+                                {
+                                    "eng": "I am learning English now.",
+                                    "hun": "Most angolt tanulok.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They are working.",
+                                    "hun": "Dolgoznak (most).",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "She is sleeping.",
+                                    "hun": "Alszik.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Are you watching this film?",
+                                    "hun": "Nézed ezt a filmet?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Phil isn't playing now.",
+                                    "hun": "Phil most nem játszik.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The bus is coming!",
+                                    "hun": "Jön a busz!",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "It is raining.",
+                                    "hun": "Esik az eső.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Befejezett jelen - Present Perfect",
+                            "sentences": [
+                                {
+                                    "eng": "I haven't seen him yet.",
+                                    "hun": "Még nem láttam (őt).",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They haven't arrived.",
+                                    "hun": "Nem érkeztek meg.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Have you ever tried windsurfing?",
+                                    "hun": "Próbáltad már a szörfözést?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Has she found him?",
+                                    "hun": "Megtalálta?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have seen the new play.",
+                                    "hun": "Láttam már az új színdarabot.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Mary has already met him twice.",
+                                    "hun": "Mary már kétszer találkozott vele.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have travelled by plane already.",
+                                    "hun": "Utaztam már repülővel.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Have you read the newspaper yet?",
+                                    "hun": "Olvastad már az újságot?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "How many times have you been to Austria?",
+                                    "hun": "Hányszor voltál már Ausztriában?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Have you ever drunk tea with milk?",
+                                    "hun": "Ittál már (valaha) teát tejjel?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have never driven a van.",
+                                    "hun": "Még soha nem vezettem furgont.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We haven't met yet.",
+                                    "hun": "Mi még nem találkoztunk.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Haven't you done your homework?",
+                                    "hun": "Nem csináltad meg a házi feladatodat?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Have you ever tried it?",
+                                    "hun": "Próbáltad már (valaha)?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Has she ever eaten snail?",
+                                    "hun": "Evett (valaha) csigát?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Have they ever arrived on time?",
+                                    "hun": "Érkeztek valaha is pontosan?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have never read such a boring book.",
+                                    "hun": "Soha nem olvastam még ilyen unalmas könyvet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The dog has never jumped over this fence.",
+                                    "hun": "A kutya még soha nem ugrotta át ezt a kerítést.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We have never played badminton.",
+                                    "hun": "Még soha nem tollasoztunk.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have lived here for three years.",
+                                    "hun": "Három éve lakom itt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "She has had her dog since last summer.",
+                                    "hun": "Múlt nyár óta van meg neki a kutyája.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Bill has worked here since 1993.",
+                                    "hun": "Bill 1993 óta dolgozik itt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have driven for two years.",
+                                    "hun": "Két éve vezetek.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "She hasn't drunk wine for six months.",
+                                    "hun": "Hat hónapja nem ivott bort.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Since when have you learned English?",
+                                    "hun": "Mióta tanulsz angolul?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "How long has she played tennis?",
+                                    "hun": "Mióta/Mennyi ideje teniszezik?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have just cleaned up.",
+                                    "hun": "Éppen most takarítottam fel.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "She has just left for school.",
+                                    "hun": "Éppen most ment el az iskolába.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I've just spoken to Mr Brown.",
+                                    "hun": "Éppen most beszéltem Mr Brownnal"
+                                },
+                                {
+                                    "eng": "We have just arrived home.",
+                                    "hun": "Éppen most értünk haza.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Mary has just finished cooking.",
+                                    "hun": "Mary éppen most fejezte be a főzést.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "He has just turned off the radio.",
+                                    "hun": "Éppen most kapcsolta ki a rádiót.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Somebody has stolen my bicycle.",
+                                    "hun": "Valaki ellopta a biciklimet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "John has passed the exam.",
+                                    "hun": "John letette a vizsgát.",
+                                    "details": "(Nem kell többet tanulnia"
+                                },
+                                {
+                                    "eng": "At last we have arrived.",
+                                    "hun": "Végre megérkeztünk.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have found a purse.",
+                                    "hun": "Találtam egy pénztárcát.",
+                                    "details": "(Van benne száz font"
+                                },
+                                {
+                                    "eng": "I have opened the window.",
+                                    "hun": "Kinyitottam az ablakot.",
+                                    "details": "(Ha fázol, csukd be"
+                                },
+                                {
+                                    "eng": "He has changed the lock.",
+                                    "hun": "Kicserélte a zárat.",
+                                    "details": "(Nem tudunk bemenni"
+                                },
+                                {
+                                    "eng": "A dog has bitten me.",
+                                    "hun": "Megharapott egy kutya.",
+                                    "details": "(Be van kötve a kezem"
+                                },
+                                {
+                                    "eng": "I haven't read your book.",
+                                    "hun": "Nem olvastam el a könyved.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Michael has sent us a postcard.",
+                                    "hun": "Michael küldött nekünk egy képeslapot.",
+                                    "details": "(Nézd"
+                                },
+                                {
+                                    "eng": "Have you found your bag?",
+                                    "hun": "Megtaláltad a táskádat?",
+                                    "details": "(Vagy még keresed"
+                                },
+                                {
+                                    "eng": "Where have you been?",
+                                    "hun": "Hol voltál?",
+                                    "details": "(Ilyen sokáig"
+                                },
+                                {
+                                    "eng": "I have seen her in a pub.",
+                                    "hun": "Láttam egy kocsmában.",
+                                    "details": "(Nem is beteg"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Folyamatos befejezett jelen - Present Perfect Continuous",
+                            "sentences": [
+                                {
+                                    "eng": "We have been waiting for you for an hour.",
+                                    "hun": "Már egy órája várunk rád.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They have been sleeping for a day.",
+                                    "hun": "Már egy napja alszanak.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "How long have they been working?",
+                                    "hun": "Mennyi ideje dolgoznak?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "She's been writing the test.",
+                                    "hun": "Már írja a tesztet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They have been having lunch.",
+                                    "hun": "Már ebédelnek.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have been working on this for two weeks.",
+                                    "hun": "Két hete ezen dolgozom.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "He's been driving for five hours.",
+                                    "hun": "Öt órája vezet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have been wanting this boor for years.",
+                                    "hun": "Évek óta (meg) akarom (szerezni) ezt a könyvet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The people on strike haven't been eating for two days.",
+                                    "hun": "A sztrájkolók már két napja nem esznek.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "It has been snowing for a long time.",
+                                    "hun": "Már régóta havazik.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I haven't been working for long.",
+                                    "hun": "Régóta nem dolgozom.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They haven't been learning too well.",
+                                    "hun": "Nem tanulnak túl jól.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Have you been waiting long?",
+                                    "hun": "Régóta vársz már?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Has she been crying?",
+                                    "hun": "Sír?",
+                                    "details": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Múlt",
+                    "items": [
+                        {
+                            "title": "Egyszerű múlt - Past Simple",
+                            "sentences": [
+                                {
+                                    "eng": "She lived in London for 2 years.",
+                                    "hun": "Élt Londonban két évig.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I often played football on Sundays.",
+                                    "hun": "Gyakran fociztam vasárnaponként.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Bob worked here 3 years ago.",
+                                    "hun": "Bob 3 évvel ezelőtt dolgozott itt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We had a lot of books.",
+                                    "hun": "Sok könyvünk volt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They went on an excursion every weekend.",
+                                    "hun": "Minden hétvégén kirándulni mentek.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I didn't have any time yesterday.",
+                                    "hun": "Nem volt időm tegnap.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Jack didn't go to the cinema.",
+                                    "hun": "Jack nem ment el moziba.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "My parents didn't come to the zoo.",
+                                    "hun": "A szüleim nem jöttek el az állatkertbe.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Did she enjoy the game?",
+                                    "hun": "Élvezte a játékot?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Did you do the homework?",
+                                    "hun": "Megcsináltad a házi feladatot?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Why didn't you call me?",
+                                    "hun": "Miért nem hívtál fel?",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Folyamatos múlt - Past Continuous",
+                            "sentences": [
+                                {
+                                    "eng": "When I woke up, she was cooking.",
+                                    "hun": "Amikor felkeltem, ő éppen főzött.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "At 9 o'clock we were watching the film.",
+                                    "hun": "9-kor néztük a filmet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They were learning when I arrived.",
+                                    "hun": "Tanultak, mikor megérkeztem.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "What were you doing then?",
+                                    "hun": "Te akkor mit csináltál?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "John wasn't doing anything.",
+                                    "hun": "John semmit sem csinált.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "While I was doing crosswords, she was sleeping.",
+                                    "hun": "Amíg én rejtvényt fejtettem, ő aludt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "While they were playing football, we sleeping.",
+                                    "hun": "Amíg ők fociztak, mi beszélgettünk.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Bob was waiting in the park while his girlfriend was writing the test.",
+                                    "hun": "Bob a parkban várt, míg a barátnője a tesztet írta.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Were you going to the party when we met yesterday?",
+                                    "hun": "A buliba mentél, mikor tegnap találkoztunk?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "While I was gardening, he broke a vase.",
+                                    "hun": "Amíg én kertészkedtem, ő eltört egy vázát.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The guests arrived while we were walking.",
+                                    "hun": "Míg mi sétáltunk, megjöttek a vendégek.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I was reading in the afternoon.",
+                                    "hun": "Délután olvastam.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We were working on the plan.",
+                                    "hun": "Dolgoztunk a terven.",
+                                    "details": "(De nem fejeztük be"
+                                },
+                                {
+                                    "eng": "She was writing the essay.",
+                                    "hun": "Írta a dolgozatot.",
+                                    "details": "(De nem írta meg"
+                                },
+                                {
+                                    "eng": "She was crying all night.",
+                                    "hun": "Egész éjszaka sírt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I was working all summer.",
+                                    "hun": "Egész nyáron dolgoztam.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The dog was running all day.",
+                                    "hun": "A kutya egész nap szaladgált.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Were you drinking all night?",
+                                    "hun": "Egész éjjel ittál?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I wasn't sleeping all weekend.",
+                                    "hun": "Egész hétvégén nem aludtam.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Was she waiting for the bus?",
+                                    "hun": "A buszra várt?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Where were you going when I saw you?",
+                                    "hun": "Hová mentél, amikor láttalak?",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Befejezett múlt - Past Perfect",
+                            "sentences": [
+                                {
+                                    "eng": "I hadn't seen him before that.",
+                                    "hun": "Nem láttam őt azelőtt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "As she hadn't finished school, she couldn't find a good job now.",
+                                    "hun": "Mivel nem fejezte be az iskolát, most nem talált jó állást.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Had you started learning English before the course?",
+                                    "hun": "A tanfolyam előtt elkezdtél már angolt tanulni?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By 9 o'clock we all had finished the work.",
+                                    "hun": "9-re mind befejeztük a munkát.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By noon I had had lunch.",
+                                    "hun": "Délre megebédeltem.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When John had got dressed, we called a taxi.",
+                                    "hun": "Mikor John felöltözött, hívtunk egy taxit.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Before I left for school, I had eaten a sandwich.",
+                                    "hun": "Mielőtt elindultam iskolába, ettem egy szendvicset.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By the time we arrived, Peter had fallen asleep.",
+                                    "hun": "Mire megérkeztünk, Peter elaludt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "After he had parked the car, he went in the building.",
+                                    "hun": "Miután leparkolta az autót, bement az épületbe.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "As soon as he had arrived home, he called his friend.",
+                                    "hun": "Amint hazaért, felhívta a barátját.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "No sooner had she got into the car than it started to rain.",
+                                    "hun": "Alighogy beszállt az autóba, elkezdett esni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Hardly had I got to the station when the train left.",
+                                    "hun": "Éppenhogy odaértem az állomásra, elindult a vonat.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I had eaten a sandwich before I left for school.",
+                                    "hun": "Ettem egy szendvicset, mielőtt elindultam iskolába.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Before we had finished our lunch he ordered us back to work.",
+                                    "hun": "Mielőtt befejeztük volna az ebédet, visszarendelt minket dolgozni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When my first son was born, I had been a soldier for five years.",
+                                    "hun": "Amikor az első gyerekem megszületett, már öt éve katona voltam.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The factory closed down in 1990, I had worked there for twenty years.",
+                                    "hun": "A gyár 1990-ben zárt be, húsz évig dolgoztam ott.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I had started doing karate before I went to university.",
+                                    "hun": "Azelőtt kezdtem karatézni, hogy elmentem egyetemre.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Folyamatos befejezett múlt - Past Perfect Continuous",
+                            "sentences": [
+                                {
+                                    "eng": "When I arrived home they had been playing.",
+                                    "hun": "Mikor hazaértem, ők már játszottak.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By the time she woke up, the boy had been walking the dog.",
+                                    "hun": "Mire felkelt, a fiú már a kutyát sétáltatta.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "At 10 they had been playing tennis for five hours.",
+                                    "hun": "Tízkor már öt órája teniszeztek.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "He was tired, because he had been working since dawn.",
+                                    "hun": "Fáradt volt, mert hajnal óta dolgozott.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When I called him, he said he had been cleaning up for hours.",
+                                    "hun": "Mikor felhívtam, azt mondta, hogy már órák óta takarít.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By the time I arrived, the painters had been painting the doors.",
+                                    "hun": "Mire odaértem, a festők már az ajtókat festették.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When we finished the game, John had been sleeping.",
+                                    "hun": "Mikor befejeztük a játékot, John már aludt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We had been travelling for two hours when I realised that I didn't have my passport on me.",
+                                    "hun": "Két órája utaztunk, mikor észrevettem, hogy nincs nálam az útlevelem.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We had been hoeing by then.",
+                                    "hun": "Akkor már kapáltunk.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "What had you been doing for hours then?",
+                                    "hun": "Mit csináltál akkor már órák óta?",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I hadn't been sleeping for three days by this time yesterday.",
+                                    "hun": "Tegnap ilyenkor volt három napja, hogy nem aludtam.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Had she been cooking by then?",
+                                    "hun": "Akkor már főzött?",
+                                    "details": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Egyéb jövők",
+                    "items": [
+                        {
+                            "title": "Be going to + ige (főnévi igenév)",
+                            "sentences": [
+                                {
+                                    "eng": "We are going to travel to Japan next month.",
+                                    "hun": "Jövő hónapban Japánba fogunk utazni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "They are going to buy that house.",
+                                    "hun": "Meg fogják venni azt a házat.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "She is going to marry a French businessman.",
+                                    "hun": "Hozzá fog menni egy francia üzletemberhez.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I am going to learn marketing from next week.",
+                                    "hun": "Jövő héttől marketinget fogok tanulni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Mrs Collins is going to be the new boss.",
+                                    "hun": "Mrs Collins lesz az új főnök.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Jenny is going to sell her antique table.",
+                                    "hun": "Jenny el fogja adni az antik asztalát.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "She is going to arrive at 10:15.",
+                                    "hun": "10:15-kor fog megérkezni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Alan is going to get a nem car.",
+                                    "hun": "Alan új autót fog kapni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "We are not going to take part in the meeting today.",
+                                    "hun": "Nem fogunk részt venni a mai megbeszélésen.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Are you going to invite him too?",
+                                    "hun": "Őt is meg fogod hívni?",
+                                    "details": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Igeidők összehasonlítása",
+                    "items": [
+                        {
+                            "title": "4. Folyamatos múlt - Befejezett múlt - Folyamatos befejezett múlt",
+                            "sentences": [
+                                {
+                                    "eng": "At 10 o'clock i was reading a book.",
+                                    "hun": "10-kor éppen olvastam egy könyvet.",
+                                    "details": "(Akkor éppen...)"
+                                },
+                                {
+                                    "eng": "By 10 o'clock I had read a book.",
+                                    "hun": "10-re (már) elolvastam a könyvet.",
+                                    "details": "(Addigra már befejeződött...)"
+                                },
+                                {
+                                    "eng": "At 10 o'clock I had been reading a book.",
+                                    "hun": "10-kor már egy könyvet elolvastam",
+                                    "details": "(Addigra már elkezdődött...)"
+                                },
+                                {
+                                    "eng": "When his wife arrived, Bill was having dinner.",
+                                    "hun": "Amikor a felesége megérkezett, Bill éppen vacsorázott.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By the time his wife arrived, Bill had had dinner.",
+                                    "hun": "Mire a felesége megérkezett, Bill megvacsorázott.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When his wife arrived, Bill had been having dinner.",
+                                    "hun": "Mikor a felesége megérkezett, Bill már vacsorázott.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "At midnight they were drinking the fourth bottle of wine.",
+                                    "hun": "Éjfélkor éppen a negyedik üveg bort itták.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By midnight they had drunk the fourth bottle of wine.",
+                                    "hun": "Éjfélre megitták a negyedik üveg bort.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "At midnight they had been drinking the fourth bottle of wine.",
+                                    "hun": "Éjfélkor már a negyedik üveg bort itták.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "5. Folyamatos jövő - Befejezett jövő - Folyamatos befejezett jövő",
+                            "sentences": [
+                                {
+                                    "eng": "At 10 o'clock I will be reading a book.",
+                                    "hun": "10-kor éppen olvasni fogok egy könyvet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By 10 o'clock I will have read a book.",
+                                    "hun": "10-re elolvasok egy könyvet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "At 10 I'll have been reading a book.",
+                                    "hun": "10-kor már olvasni fogok egy könyvet.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When he returns from England, we will be painting the house.",
+                                    "hun": "Mikor visszajön Angliából, éppen festeni fogjuk a házat.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By the time he returns from England, we will have painted the house.",
+                                    "hun": "Mire visszajön Angliából, ki fogjuk festeni a házat.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When he returns from England, we will have been painting the house.",
+                                    "hun": "Mikor visszajön Angliából, már festeni fogjuk a házat.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When you wake up, I will be cooking.",
+                                    "hun": "Mikor felkelsz, én (éppen) főzni fogok.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "By the time you wake up, I'll have cooked.",
+                                    "hun": "Mire felkelsz, megfőzök.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "When you wake up, I'll have been cooking.",
+                                    "hun": "Mikor felkelsz, már főzni fogok.",
+                                    "details": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Szenvedő szerkezet - Passive voice",
+            "items": [
+                {
+                    "title": "Szenvedő szerkezet - Passive voice",
+                    "sentences": [
+                        {
+                            "eng": "The book will be sold from next month.",
+                            "hun": "A könyv jövő hónaptól lesz árusítva.",
+                            "details": "(A könyvet jövő hónaptól fogják árusítani"
+                        },
+                        {
+                            "eng": "Her arm was plastered.",
+                            "hun": "A karja be lett gipszelve.",
+                            "details": "(Begipszelték a karját"
+                        },
+                        {
+                            "eng": "He is being examined at the hospital now.",
+                            "hun": "Most van kivizsgálva a kórházban.",
+                            "details": "(Most vizsgálják ki a kórházban"
+                        },
+                        {
+                            "eng": "The parcels are always delivered in the morning.",
+                            "hun": "A csomagok mindig délelőtt vannak kiszállítva.",
+                            "details": "(A csomagokat mindig délelőtt szállítják ki"
+                        },
+                        {
+                            "eng": "The burglar has been arrested.",
+                            "hun": "A betörő le lett tartóztatva.",
+                            "details": "(Letartóztatták a betörőt"
+                        },
+                        {
+                            "eng": "Has she been promoted?",
+                            "hun": "Előléptették?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "In the hurricane dozens of houses were destroyed.",
+                            "hun": "A hurrikánban házak tucatjai semmisültek meg.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "The newspaper is brought every morning.",
+                            "hun": "Az újságot hozzák minden reggel.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "His son has been kidnapped.",
+                            "hun": "Elrabolták a fiát.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "The suspects were being questioned when I arrived.",
+                            "hun": "A gyanúsítottakat éppen akkor hallgatták ki, mikor megérkeztem.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "All the fruit trees here were planted in 2000.",
+                            "hun": "Az összes itteni gyümölcsfát 2000-ben ültették.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "After the girl had been found, everybody went home relieved.",
+                            "hun": "Miután megtalálták a lányt, mindenki megkönnyebbülten ment haza.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "This film was shot in Sierra Leone.",
+                            "hun": "Ezt a filmet Sierra Leone-ban forgatták.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Is your car being repaired now?",
+                            "hun": "Most javítják az autódat?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "His paintings will be exhibited in a gallery in Barcelona.",
+                            "hun": "Egy barcelonai galériában fogják kiállítani a képeit.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Was the new machine tested?",
+                            "hun": "Tesztelték az új gépet?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Today the lunch was cooked by Joe.",
+                            "hun": "Ma az ebédet Joe főzte.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "All the books here were written by Poe.",
+                            "hun": "Az összes könyvet itt Poe írta.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Bill has been hit by a doctor.",
+                            "hun": "Billt egy orvos ütötte el.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "The lost wallet was found by a child.",
+                            "hun": "Az elvesztett pénztárcát egy gyerek találta meg.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "This picture was painted by my father.",
+                            "hun": "Az apám festette ezt a képet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "The bus 21 is driven by a young woman.",
+                            "hun": "A 21-es buszt egy fiatal nő vezeti.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "The main character was acted by my favourite actor.",
+                            "hun": "A főszerepet a kedvenc színészem alakította.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Everybody was invited by Sue.",
+                            "hun": "Mindenkit Sue hívott meg.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I was shocked by his behaviour.",
+                            "hun": "Ledöbbentett a viselkedése.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "The car was driven by a politician.",
+                            "hun": "Az autót egy politikus vezette.",
+                            "details": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Feltételes mondatok - Conditionals",
+            "items": [
+                {
+                    "title": "Feltételes jövő - I. Típus",
+                    "sentences": [
+                        {
+                            "eng": "If we get up early, we will go to the zoo.",
+                            "hun": "Ha felkelünk korán, el fogunk menni az állatkertbe.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If she runs, she will catch the bus.",
+                            "hun": "Ha fut, el fogja érni a buszt.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you drive, I will sleep.",
+                            "hun": "Ha te vezetsz, én aludni fogok.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you come to the party, you will meet my new boss.",
+                            "hun": "Ha eljössz a partira, találkozni fogsz az új főnökömmel.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If I have time, I'll go swimming.",
+                            "hun": "Ha lesz időm, el fogok menni úszni.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you don't learn, you won't pass the exam.",
+                            "hun": "Ha nem tanulsz, nem fogsz átmenni a vizsgán.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Bob will come if we invite him.",
+                            "hun": "Bob el fog jönni, ha meghívjuk.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Will you have another job if the factory closes down?",
+                            "hun": "Lesz másik munkád, ha a gyár bezár?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If the weather is nice, we will go for a walk.",
+                            "hun": "Ha szép idő lesz, sétálni fogunk egyet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you break it, I'll be very angry.",
+                            "hun": "Ha összetöröd, nagyon mérges leszek.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you are ready, you may go home.",
+                            "hun": "Ha készen vagy, hazamehetsz.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If it stops snowing, we can go out.",
+                            "hun": "Ha eláll a hó, kimehetünk.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you want to lose weight you must/should eat less.",
+                            "hun": "Ha fogyni akarsz, kevesebbet kell/kellene enned.",
+                            "details": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Feltételes jelen - II. Típus",
+                    "sentences": [
+                        {
+                            "eng": "If we got up early, we would go to the zoo.",
+                            "hun": "Ha felkelnénk korán, elmennénk az állatkertbe.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If she ran, she would catch the bus.",
+                            "hun": "Ha futna, elérné a buszt.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you drove, I would sleep.",
+                            "hun": "Ha te vezetnél, én aludnék.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you came to the party, you would meet my new boss.",
+                            "hun": "Ha eljönnél a partira, találkoznál az új főnökömmel.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If I had time, I'd go swimming.",
+                            "hun": "Ha lenne időm, elmennék úszni.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you didn't learn, you wouldn't pass the exam.",
+                            "hun": "Ha nem tanulnál, nem mennél át a vizsgán.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Bob would come if we invited him.",
+                            "hun": "Bob eljönne, ha meghívnánk.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Would you have another job if the factory closed down?",
+                            "hun": "Lenne másik munkád, ha a gyár bezárna?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If the weather was nice, we'd go for a walk.",
+                            "hun": "Ha szép idő lenne, sétálnánk egyet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you broke it, I would be very angry.",
+                            "hun": "Ha összetörnéd, nagyon mérges lennék.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you tried it, it might work.",
+                            "hun": "Ha megpróbálnád, lehet, hogy működne.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If he had a permission, he could get a job.",
+                            "hun": "Ha lenne engedélye, találhatna munkát.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If he was/were here, he would know the answer.",
+                            "hun": "Ha itt lenne, tudná a választ.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Were he here, he would know the answer.",
+                            "hun": "Ha itt lenne, tudná a választ.",
+                            "details": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Feltételes múlt - III. Típus",
+                    "sentences": [
+                        {
+                            "eng": "If we had got up early, we would have gone to the zoo.",
+                            "hun": "Ha felkeltünk volna korán, elmentünk volna az állatkertbe.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If she had run, she would have caught the bus.",
+                            "hun": "Ha futott volna, elérte volna a buszt.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you had driven, I would have slept.",
+                            "hun": "Ha vezettél volna, aludtam volna.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you'd come to the party, you would have met my new boss.",
+                            "hun": "Ha eljöttél volna a partira, találkoztál volna az új főnökömmel.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If I had had time, I'd have gone swimming.",
+                            "hun": "Ha lett volna időm, elmentem volna úszni.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you hadn't learnt, you wouldn't have passed the exam.",
+                            "hun": "Ha nem tanultál volna, nem mentél volna át a vizsgán.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Bob would've come if we had invited him.",
+                            "hun": "Bob eljött volna, ha meghívtuk volna.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Would you have had another job if the factory had closed down?",
+                            "hun": "Lett volna másik munkád, ha a gyár bezárt volna?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If the weather had been nice, we would have gone for a walk.",
+                            "hun": "Ha szép idő lett volna, sétáltunk volna egyet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you had broken it, I'd have been very angry.",
+                            "hun": "Ha összetörted volna, nagyon mérges lettem volna.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you had tried it, it might have worked.",
+                            "hun": "Ha megpróbáltad volna, lehet, hogy működött volna.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If he had had a permission, he could have got a job.",
+                            "hun": "Ha lett volna engedélye, találhatott volna munkát.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Had he come, we would have given him the book.",
+                            "hun": "Ha eljött volna, odaadtuk volna neki a könyvet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If she had learnt more at school, she would be an engineer now.",
+                            "hun": "Ha többet tanult volna az iskolában, most mérnök lenne.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If I had bought that TV, we could watch the match today.",
+                            "hun": "Ha megvettem volna azt a TV-t, meg tudnánk nézni ma a meccset.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If we hadn't bought bread, we couldn't make sandwiches.",
+                            "hun": "Ha nem vettünk volna kenyeret, nem tudnánk szendvicset csinálni.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If I didn't love you, I wouldn't have married you.",
+                            "hun": "Ha nem szeretnélek, nem vettelek volna el.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If he didn't have time, he wouldn't have called us.",
+                            "hun": "Ha nem érne rá, nem hívott volna minket.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If I were strong, I would have beaten him a long time ago.",
+                            "hun": "Ha erős lennék, már régen megvertem volna.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I would be very greatful if you would send me your brossure.",
+                            "hun": "Hálás lennék, ha elküldené a prospektusukat.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If you would like to come, I'll buy you a ticket too.",
+                            "hun": "Ha szeretnél jönni, veszek majd neked is jegyet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If he should come today, please, call me at once!",
+                            "hun": "Ha esetleg ma jönne, hívj fel azonnal, légy szíves!",
+                            "details": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Függő beszéd - Reported Speech",
+            "items": [
+                {
+                    "title": "Szenvedő szerkezet - Passive voice",
+                    "sentences": [
+                        {
+                            "eng": "Tim says he likes football very much.",
+                            "hun": "Tim azt mondja, nagyon szereti a focit.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "They say they have been waiting for him for hours.",
+                            "hun": "Azt mondják, hogy már órák óta várnak rá.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She says that she won't have finished work by 5.",
+                            "hun": "Azt mondja, hogy nem fogja 5-re befejezni a munkát.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Melanie says when she woke up everybody else was still sleeping.",
+                            "hun": "Melanie azt mondja, mikor felkelt, mindenki más még aludt.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I am working on the article.",
+                            "hun": "A cikken dolgozom.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He said he was working on the article.",
+                            "hun": "Azt mondta, a cikken dolgozik.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She said that they hadn't gone abroad this year.",
+                            "hun": "Azt mondta, hogy idén nem mentek külföldre.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He said he would do the shopping that day.",
+                            "hun": "Azt mondta, aznap ő vásárol.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She said she hadn't gone to Germany the previous summer.",
+                            "hun": "Azt mondta, előző nyáron nem ment Németországba.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Tim said he liked football very much.",
+                            "hun": "Tim azt mondta, nagyon szereti a focit.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "They said they had been waiting for him for hours.",
+                            "hun": "Azt mondták, hogy már órák óta várnak rá.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She said that she wouldn't have finished work by 5.",
+                            "hun": "Azt mondta, hogy nem fogja 5-re befejezni a munkát.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Melanie said when she had woken up everybody else had still been sleeping.",
+                            "hun": "Melanie azt mondta, mikor felkelt, mindenki más még aludt.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He said if he had time, he would call me.",
+                            "hun": "Azt mondta, ha lesz ideje, fel fog hívni.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He said if he had time, he would call me.",
+                            "hun": "Azt mondta, ha lenne ideje, felhívna.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He said if he had had time, he'd have called me.",
+                            "hun": "Azt mondta, ha lett volna ideje, felhívott volna.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She said her name is/was Mary Collins.",
+                            "hun": "Azt mondta, Mary Collinsnak hívják."
+                        },
+                        {
+                            "eng": "He said that the wind there always blows/blew from the North.",
+                            "hun": "Azt mondta, ott mindig északról fúj a szél."
+                        },
+                        {
+                            "eng": "She said she will go to the next Olimpic Games in 2016.",
+                            "hun": "Azt mondta, hogy menni fog a következő olimpiai játékokra 2016-ban."
+                        },
+                        {
+                            "eng": "She asks if you saw the film yesterday.",
+                            "hun": "Azt kérdezi, hogy láttad-e a filmet tegnap.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asks if I am married.",
+                            "hun": "Azt kérdezi, hogy házas vagyok-e.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asks if they will come this weekend.",
+                            "hun": "Azt kérdezi, hogy jönnek-e ezen a hétvégén.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asks whether you will come with us or stay at home.",
+                            "hun": "Azt kérdezi eljössz-e velünk, vagy itthon maradsz.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Jack asks whether you want to play football or basketball.",
+                            "hun": "Jack azt kérdezi, hogy focizni akarsz, vagy kosárlabdázni.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asks if she is sleeping.",
+                            "hun": "Azt kérdezi, hogy alszik-e.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asks if he has been working for long.",
+                            "hun": "Azt kérdezi, régóta dolgozik-e.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asks whether you can swim or not.",
+                            "hun": "Azt kérdezi, hogy tudsz-e úszni, vagy nem.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asks if they hurt me.",
+                            "hun": "Azt kérdezi bántottak-e (engem).",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asked if you had seen the film the day before.",
+                            "hun": "Azt kérdezte, hogy láttad-e a filmet előző nap.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asked if I was married.",
+                            "hun": "Azt kérdezte, hogy házas vagyok-e.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asked if they would come that weekend.",
+                            "hun": "Azt kérdezte, hogy jönnek-e azon a hétvégén.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asked if she was sleeping.",
+                            "hun": "Azt kérdezte, hogy alszik-e.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asked if he had been working for long.",
+                            "hun": "Azt kérdezte, régóta dolgozik-e.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asked whether you could swim or not.",
+                            "hun": "Azt kérdezte, hogy tudsz-e úszni, vagy nem?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asked if they had hurt me.",
+                            "hun": "Azt kérdezte bántottak-e (engem).",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asks where I bought these shoes.",
+                            "hun": "Azt kérdezi, hol vettem ezt a cipőt.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asks what you will tell them.",
+                            "hun": "Azt kérdezi, hogy mit fogsz nekik mondani.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asks how old his dog is.",
+                            "hun": "Azt kérdezi, hogy mennyi idős a kutyája.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asks how often you use the computer.",
+                            "hun": "Azt kérdezi, hogy milyen gyakran használod a számítógépet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I am asking when she got the job.",
+                            "hun": "Azt kérdezem, mikor kapta meg a munkát.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asks where you are travelling during the holiday.",
+                            "hun": "Azt kérdezi, hová utazol a szünetben.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asks who is your best friend.",
+                            "hun": "Azt kérdezi, ki a legjobb barátod.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asked where I had bought those shoes.",
+                            "hun": "Azt kérdezte, hol vettem azt a cipőt.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asked what you would tell them.",
+                            "hun": "Azt kérdezte, hogy mit fogsz nekik mondani.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asked how old his dog was.",
+                            "hun": "Azt kérdezte, hogy mennyi idős a kutyája.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asked how often you used the computer.",
+                            "hun": "Azt kérdezte, hogy milyen gyakran használod a számítógépet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I asked when she had got the job.",
+                            "hun": "Azt kérdeztem, mikor kapta meg a munkát.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Ha asked where you were travelling during the holiday.",
+                            "hun": "Azt kérdezte, hová utazol a szünetben.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asked who was your best friend.",
+                            "hun": "Azt kérdezte, ki a legjobb barátod.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She told me to get up.",
+                            "hun": "Azt mondta, hogy keljek fel.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asks us to try to be on time.",
+                            "hun": "Arra kér minket, hogy próbáljunk pontosak lenni.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He ordered me not to hurry.",
+                            "hun": "Utasított, hogy ne siessek.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She told him never to speak to her like that again.",
+                            "hun": "Azt mondta neki, soha ne beszéljen vele így.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She asks me to be more polite.",
+                            "hun": "Arra kér, hogy legyek udvariasabb.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She begged me to wait for her.",
+                            "hun": "Könyörgött, hogy várjam meg.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He asked Tom to hold the box.",
+                            "hun": "Megkérte Tomot, hogy fogja meg a dobozt.",
+                            "details": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Célhatározói mellékmondatok - azért, hogy... abból a célból, hogy...",
+            "items": [
+                {
+                    "title": "To / In order to / So as to (+Ige)",
+                    "sentences": [
+                        {
+                            "eng": "Mary travelled to Paris to see the Eiffel Tower.",
+                            "hun": "Mary elutazott Párizsba, hogy (ő, Mary) lássa az Eiffel Tornyot.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "We took a taxi to catch the plane.",
+                            "hun": "Taxiba szálltunk, hogy elérjük a gépet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Jason goes swimming every day to keep fit.",
+                            "hun": "Jason mindennap úszni jár, hogy jó kondícióban legyen.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I am not here to solve your problems.",
+                            "hun": "Nem azért vagyok itt, hogy megoldjam a problémáidat.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "We joined the bowling club in order to take part in the championship.",
+                            "hun": "Azért csatlakoztunk a bowling klubhoz, hoy részt vegyünk a bajnokságban.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Bill bought a new TV set so as to watch films in the bedroom too.",
+                            "hun": "Bill vett egy új TV-t, hogy a hálóban is filmezzen.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I had a coffee so as not to be so sleepy.",
+                            "hun": "Ittam egy kávét, hogy ne legyek olyan álmos.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I went to the party to meet Tom.",
+                            "hun": "Elmentem a buliba, hogy találkozzak Tommal.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I didn't go to the party to meet Tom.",
+                            "hun": "Nem mentem el a buliba, hogy találkozzak Tommal.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I went to the party not to meet Tom.",
+                            "hun": "Elmentem a buliba, hogy ne találkozzak Tommal.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I didn't go to the party not to meet Tom.",
+                            "hun": "Nem mentem el a buliba, hogy ne találkozzak Tommal.",
+                            "details": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "So that / In order that (+tagmondat)",
+                    "sentences": [
+                        {
+                            "eng": "I rented a car so that we could travel around Scotland.",
+                            "hun": "Autót béreltem, hogy körbeautózzuk Skóciát.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "We are redecorating one of our rooms so that Jenny can move in.",
+                            "hun": "Felújítjuk az egyik szobánkat, hogy Jane beköltözhessen.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I have prepared some sandwiches so that the guests won't be hungry in the evening.",
+                            "hun": "Készítettem néhány szendvicset, hogy a vendégek ne legyenek éhesek este (majd).",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I prepared some sandwiches so that the guests wouldn't be hungry in the evening.",
+                            "hun": "Készítettem néhány szendvicset, hogy a vendégek ne legyenek éhesek este (pl.",
+                            "details": "tegnap)"
+                        },
+                        {
+                            "eng": "She cleaned the house so that her mother wouldn't have to.",
+                            "hun": "Kitakarította a házat, hogy az édesanyjának ne kelljen.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Philip has brought some newspapers so that we can look at the small ads.",
+                            "hun": "Philip hozott néhány újságot, hogy megnézhessük az apróhirdetéseket.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I didn't watch the film so I could enjoy the book more.",
+                            "hun": "Nem néztem meg a filmet, hogy jobban élvezhessem a könyvet.",
+                            "details": "(Megegyezik az alany, és kihagyható a that a szerkezetből"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Műveltető szerkezet",
+            "items": [
+                {
+                    "title": "Have/Get + Tárgy + Ige3. (+by+cselekvő személy)",
+                    "sentences": [
+                        {
+                            "eng": "I had/got the lock replaced by my neighbour.",
+                            "hun": "Kicseréltettem a zárat a szomszédommal.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Most mosatom az autómat.",
+                            "hun": "I am having/getting my car washed.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I have had/got the phone repaired.",
+                            "hun": "Már megjavíttattam a telefont.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I will have this book copied.",
+                            "hun": "Le fogom másoltatni ezt a könyvet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She didn't get her hair cut.",
+                            "hun": "Nem vágatta le a haját.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He had all his books sold by his friend.",
+                            "hun": "Az összes könyvét eladatta a barátjával.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "We've been getting our flat painted for three weeks.",
+                            "hun": "Három hete festetjük a lakást.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I'd like to have some paintings put on the wall.",
+                            "hun": "Szeretnék rakatni néhány képet a falra.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Sometimes he has his articles written by beginner journalists.",
+                            "hun": "Néha kezdő újságírókkal íratja meg a cikkeit.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Did you have this photo taken in Spain?",
+                            "hun": "Spanyolországban csináltattad ezt a képet?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Have you ever got shoes made for yourself?",
+                            "hun": "Csináltattál magadnak valaha cipőt?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Have two pizzas brought!",
+                            "hun": "Hozass két pizzát!",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She is getting a new house built.",
+                            "hun": "Építtet egy új házat.",
+                            "details": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Make + Cselekvő személy + Ige (főnévi igenév) (+T)",
+                    "sentences": [
+                        {
+                            "eng": "I made my brother write my homework.",
+                            "hun": "A testvéremmel írattam meg a házi feladatomat.",
+                            "details": "(vagy: Rávettem a testvéremet, hogy írja meg...)"
+                        },
+                        {
+                            "eng": "This film always makes her cry.",
+                            "hun": "Ez a film mindig megsiratja.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You will never make him dance!",
+                            "hun": "Soha nem fogod rávenni, hogy táncoljon!",
+                            "details": ""
+                        },
+                        {
+                            "eng": "His jokes never made me laugh.",
+                            "hun": "A viccei soha nem nevettettek meg.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Have you made John help you?",
+                            "hun": "Te rávetted Johnt, hogy segítsen?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "The boss made the secretary type the letter.",
+                            "hun": "A főnök a titkárnővel gépeltette le a levelet.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He made everybody believe that he was Italian.",
+                            "hun": "Mindenkivel elhitette, hogy olasz.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I made the neighbour replace the lock.",
+                            "hun": "Kicseréltettem a szomszéddal a zárat.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "These children will make you go mad.",
+                            "hun": "Ezek a gyerekek meg fognak téged őríteni.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Sunshine makes me feel better.",
+                            "hun": "A napsütéstől jobban érzem magam.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I was made to clean up the flat.",
+                            "hun": "Velem takaríttatták ki a lakást.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I was made to clean up the flat.",
+                            "hun": "Velem takaríttatták ki a lakást.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You'll be made to help too.",
+                            "hun": "Neked is kell majd segítened.",
+                            "details": "(Téged is rá fognak venni, hogy segíts"
+                        },
+                        {
+                            "eng": "Mary has been made to live in one room with Jordan.",
+                            "hun": "Rákényszerítették Maryt, hogy egy szobában lakjon Jordannel.",
+                            "details": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Have + Cselekvő + Személy + Ige (főnévi igenév) (+T)",
+                    "sentences": [
+                        {
+                            "eng": "I will have him help us.",
+                            "hun": "Rá fogom venni, hogy segítsen nekünk.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You should have an expert deal with the case.",
+                            "hun": "Meg kellene bíznod egy szakembert, hogy foglalkozzon az üggyel.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I had a lot of people come to my party.",
+                            "hun": "Nagyon sok embert rávettem, hogy eljöjjön a bulimra.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Will you have him drive?",
+                            "hun": "Meg fogod kérni, hogy vezessen?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I had a plumber finish the work.",
+                            "hun": "Egy vízvezeték-szerelővel fejeztettem be a munkát.",
+                            "details": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Get + Cselekvő személy + To + Ige (főnévi igenév) (+T)",
+                    "sentences": [
+                        {
+                            "eng": "We got him to bring us something to drink.",
+                            "hun": "Hozattunk vele innivalót.",
+                            "details": "(vagy: Rávettük, hogy hozzon...)"
+                        },
+                        {
+                            "eng": "Jane got Tarzan to eat the banana soup.",
+                            "hun": "Jane megetette Tarzannal a banánlevest.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Can she get somebody to change the oil?",
+                            "hun": "Ki tudja cseréltetni valakivel az olajat?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I will get him to sing.",
+                            "hun": "Majd én ráveszem, hogy énekeljen.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Nobody has ever been able to get him to show them his poems.",
+                            "hun": "Soha senki nem tudta még rávenni, hogy mutassa meg a verseit.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Who got Jones to repair the fridge?",
+                            "hun": "Ki vette rá Jonest, hogy megjavítsa a hűtőt?",
+                            "details": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Segédigék",
+            "items": [
+                {
+                    "title": "Can, Could, Be able to",
+                    "items": [
+                        {
+                            "title": "Can/Could",
+                            "items": [
+                                {
+                                    "title": "Tud csinálni valamit",
+                                    "sentences": [
+                                        {
+                                            "eng": "I can swim, I learnt it when I was 10.",
+                                            "hun": "Tudok úszni, 10 éves koromban tanultam meg.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "Mary can use the computer very well.",
+                                            "hun": "Mary nagyon jól tudja használni a számítógépet.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "They can start the new machine at the beginning of next week.",
+                                            "hun": "Jövő hét elején el tudják indítani az új gépet.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "Jim can play the guitar.",
+                                            "hun": "Jim tud gitározni.",
+                                            "details": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Csinálhat valamit",
+                                    "sentences": [
+                                        {
+                                            "eng": "You can use my pen.",
+                                            "hun": "Használhatod a tollamat.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "Can I sleep here?",
+                                            "hun": "Alhatok itt?",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "Could I sleep here?",
+                                            "hun": "Alhatnék itt?",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "You can print the documents from my computer if you wish!",
+                                            "hun": "Kinyomtathatod a dokumentumokat a gépemről, ha szeretnéd!",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "Jason can drive his father's car.",
+                                            "hun": "Jason vezetheti az apja autóját.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "You can't just come in here whenever you want.",
+                                            "hun": "Nem jöhetsz be ide, amikor csak akarsz!",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "Can I borrow this book?",
+                                            "hun": "Kölcsönkérhetem ezt a könyvet?",
+                                            "details": "(engedély kérése, hasonlít a may-re"
+                                        },
+                                        {
+                                            "eng": "She can have dinner with us.",
+                                            "hun": "Vacsorázhat velünk.",
+                                            "details": "(engedély adása)"
+                                        },
+                                        {
+                                            "eng": "We can make an excursion at the weekend as the weather is going to be nice.",
+                                            "hun": "Kirándulhatunk a hétvégén, mivel az idő szép lesz.",
+                                            "details": "(lehetőség kifejezése)"
+                                        },
+                                        {
+                                            "eng": "Bob could find the solution to the exercise in 5 minutes.",
+                                            "hun": "Bob 5 perc alatt megtalálta (meg tudta találni) a megoldást a feladatra.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "Jenny could collect the rabbits in the garden alone.",
+                                            "hun": "Jenny egyedül össze tudta gyűjteni a nyulakat a kertben.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "He could do something.",
+                                            "hun": "Tudna csinálni valamit.",
+                                            "details": "csinálhatna "
+                                        },
+                                        {
+                                            "eng": "Mary could help us if she were here.",
+                                            "hun": "Mary tudna nekünk segíteni, ha itt lenne.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "Couldn't you be a bit more polite with her?",
+                                            "hun": "Nem tudnál egy kicsit udvariasabb lenni vele?",
+                                            "details": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Can't - Biztosan nem / az nem lehet, hogy...",
+                                    "sentences": [
+                                        {
+                                            "eng": "John can't be at home, I saw him walking in the park a few minutes ago.",
+                                            "hun": "John nem lehet otthon (Az nem lehet, hogy John otthon van), mert pár perce láttam a parkban sétálni.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "They can't have many friends, they are so rude to everyone.",
+                                            "hun": "Nem lehet sok barátjuk, olyan rosszindulatúak mindenkivel.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "She can't be working with the new computer.",
+                                            "hun": "It hasn't been installed yet.",
+                                            "details": "Az nem lehet, hogy az új számítógépen dolgozik"
+                                        },
+                                        {
+                                            "eng": "Bob can't have arrived in time, he had left home so late!",
+                                            "hun": "Biztos nem ért oda időben, olyan későn idult el otthonról!",
+                                            "details": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Can - Érzésekkel kapcsolatos igék",
+                                    "sentences": [
+                                        {
+                                            "eng": "I can see a house over there.",
+                                            "hun": "Látok ott egy házat.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "Can you hear the music?",
+                                            "hun": "Hallod a zenét?",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "I can smell something burning!",
+                                            "hun": "Érzek valami égett szagot!",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "We could taste something very spicy.",
+                                            "hun": "Valami nagyon fűszeres ízt éreztünk.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "I could feel the cold breeze of autumn as I opened the door.",
+                                            "hun": "Ahogy kinyitottam az ajtót, éreztem a hűvös őszi szellőt.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "Can you remember the face of the man?",
+                                            "hun": "Emlékszel a férfi arcára?",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "I just cannot remember what she told me about using the oven.",
+                                            "hun": "Egyszerűen nem emlékszem mit mondott a sütő használatáról.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "I couldn't really understand what they were talking about.",
+                                            "hun": "Nem igazán értettem, hogy miről beszélnek.",
+                                            "details": ""
+                                        },
+                                        {
+                                            "eng": "The music was quite loud, however, I could understand every word.",
+                                            "hun": "A zene elég hangos volt, ennek ellenére minden szót értettem.",
+                                            "details": ""
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Be able to",
+                            "sentences": [
+                                {
+                                    "eng": "Frank could drive when he was 20.",
+                                    "hun": "Frank 20 évesen tudott vezetni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Frank was able to drive home despite the heavy snowfall.",
+                                    "hun": "A nagy hóesés ellenére Frank haza tudott vezetni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I haven't been able to speak to Mr Jackson for days.",
+                                    "hun": "Napok óta nem tudok Jackson úrral beszélni.",
+                                    "details": "(itt csak a be able to szerkezet használható, hiszen az igeidő Befejezett jelen, a can/could pedig csak Egyszerű jelenben/múltban használható)"
+                                },
+                                {
+                                    "eng": "You won't be able to lift that alone!",
+                                    "hun": "Nem fogod tudni egyedül megemelni!",
+                                    "details": "(szintén csak ez a megoldás jó, mivel jövő időről van szó)"
+                                },
+                                {
+                                    "eng": "If we had been able to reboot the system, the situation could have been solved.",
+                                    "hun": "Ha újra tudtuk volna indítani a rendszert, meg lehetett volna oldani a helyzetet.",
+                                    "details": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "May, Might",
+                    "sentences": [
+                        {
+                            "eng": "May I use your phone to call my Mom?",
+                            "hun": "Használhatom a telefonodat, hogy felhívjam anyukámat?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Might I use your phone to call my Mom?",
+                            "hun": "(Esetleg) használhatnám a telefonodat, hogy felhívjam anyukámat?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "May I come in?",
+                            "hun": "Bejöhetek?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You may put on my coat if you are cold.",
+                            "hun": "Felveheted a kabátomat, ha fázol.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Might we crash here tonight?",
+                            "hun": "Esetleg alhatnánk itt ma éjjel?",
+                            "details": "(Igen, a crash ezt is jelenti"
+                        },
+                        {
+                            "eng": "You might borrow my car if promise to bring it back till 10 o'clock.",
+                            "hun": "Kölcsönkérheted az autómat, ha megígéred, hogy visszahozod 10-ig.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "John may come to the party.",
+                            "hun": "Lehet, hogy eljön John a buliba.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "John might come to the party.",
+                            "hun": "Elképzelhető, hogy eljön John a buliba.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "This play might actually work!",
+                            "hun": "Ez a terv akár működhet is!",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Mary may call Jim in the afternoon.",
+                            "hun": "Mary lehet, hogy felhívja Jimet délután.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He may have missed the bus.",
+                            "hun": "Lehet, hogy lekéste a buszt.",
+                            "details": "(De nem vagyunk benne biztosak)"
+                        },
+                        {
+                            "eng": "She might have left before the concert.",
+                            "hun": "Elképzelhető, hogy (már) a koncert előtt elment.",
+                            "details": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Shell, Should, Ought to",
+                    "sentences": [
+                        {
+                            "eng": "Shall I help you?",
+                            "hun": "Segítsek?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Shall I open the door for you?",
+                            "hun": "Kinyissam neked az ajtót?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Shall we talk about our project?",
+                            "hun": "Beszéljünk a projektünkről?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "We shall overcome!",
+                            "hun": "Győzni fogunk!",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Let's go, shall we?",
+                            "hun": "Menjünk, jó?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Let's not stay here any longer, shall we?",
+                            "hun": "Ne maradjunk itt tovább, jó?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You should learn more!",
+                            "hun": "Többet kellene tanulnod!",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Jane shouldn't have gone to the concert with such high temperature.",
+                            "hun": "Jane-nek nem kellett volna elmennie a koncertre ilyen magas lázzal.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I should start preparing for my English language exam.",
+                            "hun": "El kellene kezdenem készülni az angol nyelvvizsgára.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "If Tim should show up, tell him that the boss wants to talk to him!",
+                            "hun": "Ha esetleg felbukkanna Tim, mondd meg neki, hogy a főnök beszélni akar vele.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You ought to wear a helmet in the production area.",
+                            "hun": "Sisakot kellene viselned a termelési területen.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You ought to have submitted the article before the deadline, not after it.",
+                            "hun": "A határidő előtt kellett volna leadnod a cikket, nem utána.",
+                            "details": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Need",
+                    "sentences": [
+                        {
+                            "eng": "I need a hammer.",
+                            "hun": "Szükségem van egy kalapácsra.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I don't need any onion for the dinner.",
+                            "hun": "A vacsorához nincs szükségem hagymára.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "He needs to go to the registry office.",
+                            "hun": "El kell mennie az okmányirodába.",
+                            "details": "(=He has to go to the registry office"
+                        },
+                        {
+                            "eng": "We needed less time to solve the task than they.",
+                            "hun": "Nekünk kevesebb időre volt szükségünk megoldani a feladatot, mint nekik.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You needed to call a taxi because of your broken ankle, didn't you?",
+                            "hun": "A törött bokád miatt kellett taxit hívnod, ugye?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "The office needs cleaning.",
+                            "hun": "Ráfér az irodára egy takarítás.",
+                            "details": "(Elkelne egy takarítás...)"
+                        },
+                        {
+                            "eng": "You needn't come, if you don't want to.",
+                            "hun": "Nem szükséges eljönnöd, ha nem akarsz.",
+                            "details": "(=You don't need to come.../You don't have to come...)"
+                        },
+                        {
+                            "eng": "I needn't have gone to the meeting.",
+                            "hun": "Nem kellett volna elmennem a megbeszélésre.",
+                            "details": "(Feleslegesen mentem)"
+                        }
+                    ]
+                },
+                {
+                    "title": "Must",
+                    "sentences": [
+                        {
+                            "eng": "I must eat something.",
+                            "hun": "Ennem kell valamit.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "We must find the best solution for ourselves.",
+                            "hun": "Meg kell találnunk a legjobb megoldást magunknak.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You must have your knee checked by a doctor.",
+                            "hun": "Meg kell (kellene) nézetned a térded egy orvossal.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You must have a cup of tea.",
+                            "hun": "Innod kell egy csésze teát.",
+                            "details": "(Meg kell kóstolnod"
+                        },
+                        {
+                            "eng": "You must know something about the plans.",
+                            "hun": "Te biztos tudsz valamit a tervekről.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Mary must be working now.",
+                            "hun": "Mary most biztos dolgozik.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Jill must have received our parcel by now.",
+                            "hun": "Jill mostanra biztos megkapta a csomagunkat.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "We mustn't shut down the system.",
+                            "hun": "Tilos lekapcsolnunk a rendszert.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You mustn't shout in a library.",
+                            "hun": "Nem kiabálhatsz egy könyvtárban.",
+                            "details": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Have to",
+                    "sentences": [
+                        {
+                            "eng": "I have to get up early.",
+                            "hun": "Korán fel kell kelnem.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I don't have to participate in the play.",
+                            "hun": "Nem kell részt vennem a színdarabban.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "Did you have to queue in front of the shop to buy that new phone?",
+                            "hun": "Sorban kellett állnod, hogy megvedd azt az új telefont?",
+                            "details": ""
+                        },
+                        {
+                            "eng": "You will have to work on this report a bit more tomorrow.",
+                            "hun": "Holnap még egy kicsit dolgoznod kell ezen a jelentésen.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I've got to go now!",
+                            "hun": "Most már mennem kell!",
+                            "details": ""
+                        },
+                        {
+                            "eng": "She's got to prepare all the food alone for the dinner.",
+                            "hun": "Egyedül kell elkészítenie az összes ételt vacsorára.",
+                            "details": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Will, Would",
+                    "sentences": [
+                        {
+                            "eng": "I wouldn't use that old axe if I were you!",
+                            "hun": "Nem használnám azt a régi baltát, ha a helyedben lennék!",
+                            "details": ""
+                        },
+                        {
+                            "eng": "We would be in a big trouble now if Bill hadn't brought a map.",
+                            "hun": "Most nagy bajban lennénk, ha Bill nem hozott volna egy térképet.",
+                            "details": "(Kevert típusú feltételes mondat - lásd: Feltételes mondatok)"
+                        },
+                        {
+                            "eng": "Marry would always tell us amazing stories about her trips around the world when she came over.",
+                            "hun": "Mary mindig elképesztő történeteket mesélt a föld körüli útjairól, amikor átjött hozzánk.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "We'd (=We would) play football all day long when we were kids.",
+                            "hun": "Gyerekkorunkban egész nap fociztunk.",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I will call you back in a minute!",
+                            "hun": "Mindjárt visszahívlak!",
+                            "details": ""
+                        },
+                        {
+                            "eng": "I bet she will choose the pink T-shirt.",
+                            "hun": "Fogadok, hogy a rózsaszínű pólót fogja választani.",
+                            "details": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Vonatkozói mellékmondatok - Relative Clauses",
+            "items": [
+                {
+                    "title": "Megszorító értelmű vonatkozói mellékmondatok - Defining relative clauses",
+                    "items": [
+                        {
+                            "title": "Alanyi alárendelés, emberekre",
+                            "sentences": [
+                                {
+                                    "eng": "The man who is standing at the door is my uncle.",
+                                    "hun": "Az a férfi, aki az ajtónál áll, a nagybátyám.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The woman that lives next door is a doctor.",
+                                    "hun": "Az a nő, aki a szomszédban lakik, orvos.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The workers who went on strike were fired.",
+                                    "hun": "Azokat a munkásokat, akik sztrájkba léptek, kirúgták.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The girl that found the lost dog got a reward.",
+                                    "hun": "Az a lány, aki megtalálta az elveszett kutyát, jutalmat kapott.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The students who went to the competition will get a prize.",
+                                    "hun": "Azok a tanulók, akik elmentek a versenyre, díjat fognak kapni.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Alanyi alárendelés, tárgyakra",
+                            "sentences": [
+                                {
+                                    "eng": "The book which is on the table is Mary's.",
+                                    "hun": "Az a könyv, ami az asztalon van, Mary-é.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I can't go into the garage because of the car that is parking in front of our house.",
+                                    "hun": "Nem tudok beállni a garázsba amiatt az autó miatt, ami a ház előtt parkol.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The films that are on at the movies are all boring.",
+                                    "hun": "A filmek, amik most mennek a mozikban, mind unalmasak.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The house which is next to the station used to be a library.",
+                                    "hun": "Az a ház, ami az állomás mellett van, régen könyvtár volt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The computer that has gone wrong is now in the loft.",
+                                    "hun": "Az a számítógép, ami elromlott, most a padláson van.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Tárgyas alárendelés, emberekre",
+                            "sentences": [
+                                {
+                                    "eng": "The boy who we saw yesterday is French.",
+                                    "hun": "Az a fiú, akit tegnap láttunk, francia.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The policeman that has been hit by a car is now being examined.",
+                                    "hun": "Most vizsgálják azt a rendőrt, akit elütött egy autó.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The robber whom the judge found guilty will be sent to prison.",
+                                    "hun": "Azt a rablót, akit a bíró bűnösnek talált, börtönbe fogják küldeni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The workers he employs are always drinking.",
+                                    "hun": "A munkások, akiket alkalmaz, mindig isznak.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The men who you met are my collegues.",
+                                    "hun": "A férfiak, akikkel találkoztál, a kollégáim.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Tárgyas alárendelés, tárgyakra",
+                            "sentences": [
+                                {
+                                    "eng": "The book I bought last week is very exciting.",
+                                    "hun": "Az a könyv, amit múlt héten vettem, nagyon izgalmas.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "I have found the papers that I lost weeks ago.",
+                                    "hun": "Megtaláltam azokat a papírokat, amiket hetekkel ezelőtt hagytam el.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The film which we saw was boring.",
+                                    "hun": "A film, amit láttunk, unalmas volt.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "In their flat you can feel the vibration which the trucks cause.",
+                                    "hun": "A lakásukban lehet érezni a rezgést, amit a kamionok okoznak.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The fruit trees that we planted last year are now blossoming.",
+                                    "hun": "Virágoznak azok a gyümölcsfák, amiket tavaly ültettünk.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Birtokos alárendelés, emberekre",
+                            "sentences": [
+                                {
+                                    "eng": "The boy whose dog is with us now is in Japan for a month.",
+                                    "hun": "A fiú, akinek a kutyája nálunk van, Japánban van egy hónapig.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The old lady whose house had burnt down won the lottery five.",
+                                    "hun": "Az az idős hölgy nyerte meg a lottó ötöst, akinek a háza leégett.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The man whose car was stolen will buy a motorbike.",
+                                    "hun": "Az a férfi, akinek ellopták az autóját, motort fog venni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The play is about a girl whose boyfriend dies in the war.",
+                                    "hun": "A darab egy olyan lányról szól, akinek meghal a barátja a háborúban.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "He is the guy whose wife is the director of the company.",
+                                    "hun": "Ő az a fickó, akinek a felesége a cég igazgatója.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Birtokos alárendelés, tárgyakra",
+                            "sentences": [
+                                {
+                                    "eng": "The coat of which collar is black is mine.",
+                                    "hun": "Az a kabát, aminek a gallérja fekete, az enyém.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The house of which walls are of glass was built in 2000.",
+                                    "hun": "Az a ház, aminek a falai üvegből vannak, 2000-ben épült.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The cat whose leg was operated on last week can already run.",
+                                    "hun": "Az a macska, amelyiknek a lábát múlt héten operálták, már tud futni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The telephone of which buttons are missing can still work.",
+                                    "hun": "A telefon, aminek hiányoznak a gombjai, működik.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The book of which author died in 1990 has been nominated to a prize.",
+                                    "hun": "Díjra jelölték azt a könyvet, aminek a szerzője 1990-ben meghalt.",
+                                    "details": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Nem megszorító (megengedő) értelmű vonatkozói mellékmondatok - Non-defining relative clauses",
+                    "items": [
+                        {
+                            "title": "Alanyi alárendelés, emberekre",
+                            "sentences": [
+                                {
+                                    "eng": "My father, who is an engineer, got a new job at the company.",
+                                    "hun": "Az apám, aki mérnök, új munkát kapott a cégnél.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "John, who is a talented pianist, can play the flute as well.",
+                                    "hun": "John, aki tehetséges zongorista, fuvolázni is tud.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "My neighbour, who is a young man, broke both his legs in a ski accident.",
+                                    "hun": "A szomszédom, aki egy fiatalember, mindkét lábát eltörte egy síbalasetben.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The director, who was elected just last year, has resigned.",
+                                    "hun": "Az igazgató, aki csak tavaly lett megválasztva, lemondott.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Susan, who is English, can hardly get used to the traffic in Europe.",
+                                    "hun": "Susan, aki angol, nehezen tudja megszokni a közlekedést Európában.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Alanyi alárendelés, tárgyakra",
+                            "sentences": [
+                                {
+                                    "eng": "My last telephone, which was as heavy as a stone, worked perfectly.",
+                                    "hun": "Az előző telefonom, ami olyan nehéz volt, mint egy kő, tökéletesen működött.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "His new plan, which is very clever in my opinion, hasn't been accepted.",
+                                    "hun": "Az új tervét, ami szerintem nagyon okos, nem fogadták el.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Our car, which is an old Ford, is worth about 2000 euros.",
+                                    "hun": "Az autónk, ami egy régi Ford, kb 2000 eurót ér.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "The only church of the town, which was built in the 18th century, is under construction.",
+                                    "hun": "A város egyetlen temploma, ami a 18ik században épült, átépítés alatt áll.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "This clock, which happens to be Swiss, was bought by my granfather.",
+                                    "hun": "Ezt az órát, ami történetesen svájci, a nagyapám vette.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Tárgyas alárendelés, emberekre",
+                            "sentences": [
+                                {
+                                    "eng": "Billy, who we saw at the concert, has gone to France.",
+                                    "hun": "Billy, akit a koncerten láttunk, elment Franciaországba.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Martin Bakers, who the people had elected to be a representative a month ago, caused a lethal accident.",
+                                    "hun": "Martin Bakers, akit az emberek múlt hónapban választottak képviselővé, halálos balesetet okozott.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Her only sister, who I met in Bristol, is visiting her today.",
+                                    "hun": "Az egyetlen testvére, akivel Bristolban találkoztam, ma fogja meglátogatni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Joan, who we cannot call a big football fan, went to the match with the children.",
+                                    "hun": "Joan, akit nem nevezhetünk nagy focirajongónak, kiment a meccsre a gyerekekkel.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "My aunt, who I love very much, wants to buy me a car.",
+                                    "hun": "A nagynéném, akit nagyon szeretek, venni akar nekem egy autót.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Tárgyas alárendelés, tárgyakra",
+                            "sentences": [
+                                {
+                                    "eng": "These shoes, which I bought for my son, only fit my daughter.",
+                                    "hun": "Ez a cipő, amit a fiamnak vettem, csak a lányomra jó.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "His house, which he built in1990, is still beautiful.",
+                                    "hun": "A háza, amit 1990-ben épített, még mindig gyönyörű.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Our new office, which you can find in the centre, is not big enough for us.",
+                                    "hun": "Az új irodánk, amit a központban találsz, nem elég nagy nekünk.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "George's watch, which he bought for a fortune, is always late.",
+                                    "hun": "George órája, amit egy vagyonért vett, mindig késik.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "His paintings, which anyone can see in the town galery, are all about his secret love.",
+                                    "hun": "A képei, amiket bárki megnézhet a városi képtárban, mind a titkos szerelméről szólnak.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Birtokos alárendelés, emberekre",
+                            "sentences": [
+                                {
+                                    "eng": "Mary, whose husband is a soldier, wants to have a baby.",
+                                    "hun": "Mary, akinek a férje katona, gyereket akar.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "John, whose car had been stolen, bought a new Volvo.",
+                                    "hun": "John, akinek ellopták az autóját, vett egy Volvót.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "My granny, whose doctor is a famous professor, is getting better very quickly.",
+                                    "hun": "A nagymamám, akinek az orvosa egy híres professzor, gyorsan javul.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Jack, whose test was the best, is a historian.",
+                                    "hun": "Jack, akinek a tesztje a legjobb lett, történész.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Phil, whose imagination is endless, thinks we are Russian spies.",
+                                    "hun": "Phil, akinek a fantáziája végtelen, azt hiszi, hogy orosz kémek vagyunk.",
+                                    "details": ""
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Birtokos alárendelés, tárgyakra",
+                            "sentences": [
+                                {
+                                    "eng": "My bicycle, of which tyre is always flat, is a piece of rubbish.",
+                                    "hun": "A biciklim, aminek a kereke mindig lapos, egy rakás szemét.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "His latest novel, of which title is The Mutiny, is a big success.",
+                                    "hun": "A legújabb regénye, aminek a címe 'A lázadás', nagy siker.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Australia, of which capital is Canberra, is a big island.",
+                                    "hun": "Ausztrália, aminek a fővárosa Canberra, egy nagy sziget.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "His knife, of which blade is Japanese, can cut even iron.",
+                                    "hun": "A kése, aminek a pengéje japán, a vasat is el tudja vágni.",
+                                    "details": ""
+                                },
+                                {
+                                    "eng": "Susan's dog, whose name is Jerry, is a labrador.",
+                                    "hun": "Susan kutyája, aminek a neve Jerry, labrador.",
+                                    "details": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
