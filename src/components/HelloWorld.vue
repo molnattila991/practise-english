@@ -13,15 +13,15 @@ const counter = useCounterStore()
 <template>
   <div v-if="dataStore.currentRandomSentence">
     <v-card class="pa-4 mt-4">
-      <v-card-text>{{ dataStore.currentRandomSentence.hun }}</v-card-text>
+      <v-card-text style="white-space: pre-wrap; word-break: break-word;">{{ dataStore.currentRandomSentence.hun }}</v-card-text>
     </v-card>
 
     <v-card class="pa-4 mt-4">
-      <v-card-text>{{ dataStore.currentRandomSentence.eng }}</v-card-text>
+      <v-card-text style="white-space: pre-wrap; word-break: break-word;">{{ dataStore.currentRandomSentence.eng }}</v-card-text>
     </v-card>
 
     <v-card class="pa-4 mt-4">
-      <v-card-text>
+      <v-card-text style="white-space: pre-wrap; word-break: break-word;">
         <div>
           {{ dataStore.currentRandomSentence.title }}
         </div>
