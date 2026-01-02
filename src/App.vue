@@ -3,9 +3,12 @@ import { ref } from 'vue'
 import { useTheme } from 'vuetify'
 import HelloWorld from './components/HelloWorld.vue'
 import Buttons from './components/Buttons.vue'
+import TreeMenu from './components/TreeMenu.vue'
+import { useDataStore } from './stores/dataStore'
 
 const theme = useTheme()
 const drawer = ref(false)
+
 
 const toggleTheme = () => {
   theme.global.name.value = theme.global.name.value === 'light' ? 'dark' : 'light'
@@ -16,14 +19,9 @@ const toggleTheme = () => {
   <v-app>
     <v-navigation-drawer v-model="drawer" temporary style="top: 64px; height: calc(100vh - 64px);">
       <!-- Drawer content here -->
-      <v-list>
-        <v-list-item>
-          <v-list-item-title>Menu Item 1</v-list-item-title>
-        </v-list-item>
-        <v-list-item>
-          <v-list-item-title>Menu Item 2</v-list-item-title>
-        </v-list-item>
-      </v-list>
+      <div style="height: 100%; width: 100%; overflow: auto; text-align: left;">
+        <TreeMenu></TreeMenu>
+      </div>
     </v-navigation-drawer>
     <v-app-bar>
       <v-btn icon @click="drawer = !drawer">
