@@ -3423,6 +3423,106 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "title": "Formális ↔ informális megfogalmazások",
+                    "items": [
+                        {
+                            "title": "Kérések és kommunikáció",
+                            "sentences": [
+                                {
+                                    "eng": "I would appreciate it if you could provide further details.",
+                                    "hun": "Értékelném, ha további részleteket tudna adni.",
+                                    "level": "C1",
+                                    "register": "formal",
+                                    "pairId": "request_info_1"
+                                },
+                                {
+                                    "eng": "Can you send me some more details?",
+                                    "hun": "El tudnál küldeni még pár részletet?",
+                                    "level": "B2",
+                                    "register": "informal",
+                                    "pairId": "request_info_1"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Panasz és problémajelzés",
+                            "sentences": [
+                                {
+                                    "eng": "I am writing to express my dissatisfaction with the service provided.",
+                                    "hun": "Azért írok, hogy kifejezzem elégedetlenségemet a nyújtott szolgáltatással kapcsolatban.",
+                                    "level": "C1",
+                                    "register": "formal",
+                                    "pairId": "complaint_1"
+                                },
+                                {
+                                    "eng": "I'm not happy with the service.",
+                                    "hun": "Nem vagyok elégedett a szolgáltatással.",
+                                    "level": "B2",
+                                    "register": "informal",
+                                    "pairId": "complaint_1"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Vélemény és egyet nem értés",
+                            "sentences": [
+                                {
+                                    "eng": "I tend to disagree with this point of view.",
+                                    "hun": "Hajlamos vagyok nem egyetérteni ezzel az állásponttal.",
+                                    "level": "C1",
+                                    "register": "formal",
+                                    "pairId": "disagree_1"
+                                },
+                                {
+                                    "eng": "I don't really agree with this.",
+                                    "hun": "Nem igazán értek ezzel egyet.",
+                                    "level": "B2",
+                                    "register": "informal",
+                                    "pairId": "disagree_1"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Idő és késedelem",
+                            "sentences": [
+                                {
+                                    "eng": "The meeting has been postponed due to unforeseen circumstances.",
+                                    "hun": "Az értekezletet előre nem látható körülmények miatt elhalasztották.",
+                                    "level": "C1",
+                                    "register": "formal",
+                                    "pairId": "delay_1"
+                                },
+                                {
+                                    "eng": "The meeting was delayed because something came up.",
+                                    "hun": "A megbeszélés elmaradt, mert közbejött valami.",
+                                    "level": "B2",
+                                    "register": "informal",
+                                    "pairId": "delay_1"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Munka és felelősség",
+                            "sentences": [
+                                {
+                                    "eng": "She is responsible for overseeing the entire project.",
+                                    "hun": "Ő felel a teljes projekt felügyeletéért.",
+                                    "level": "C1",
+                                    "register": "formal",
+                                    "pairId": "responsibility_1"
+                                },
+                                {
+                                    "eng": "She's in charge of the whole project.",
+                                    "hun": "Ő viszi az egész projektet.",
+                                    "level": "B2",
+                                    "register": "informal",
+                                    "pairId": "responsibility_1"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
