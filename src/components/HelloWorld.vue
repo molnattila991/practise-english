@@ -1,6 +1,5 @@
 <script setup>
 import { ref } from 'vue'
-import { useCounterStore } from '../store/counter';
 import { useDataStore } from '../stores/dataStore'
 const dataStore = useDataStore()
 defineProps({
@@ -13,18 +12,27 @@ function speak(textToSpeak) {
   speechSynthesis.speak(utterance);
 }
 
-const counter = useCounterStore()
 </script>
 
 <template>
   <div v-if="dataStore.currentRandomSentence">
-    <v-card class="pa-4 mt-4">
+    <v-card class="pa-4 mt-4" v-if="dataStore.shownLanguage === 'hun'">
       <v-card-text style="white-space: pre-wrap; word-break: break-word; cursor: pointer;" @click="speak(dataStore.currentRandomSentence.hun)">{{ dataStore.currentRandomSentence.hun
         }}</v-card-text>
     </v-card>
 
-    <v-card class="pa-4 mt-4">
+    <v-card class="pa-4 mt-4" v-if="dataStore.shownLanguage === 'eng'">
       <v-card-text style="white-space: pre-wrap; word-break: break-word; cursor: pointer;" @click="speak(dataStore.currentRandomSentence.eng)">{{ dataStore.currentRandomSentence.eng
+        }}</v-card-text>
+    </v-card>
+
+    <v-card class="pa-4 mt-4" v-if="dataStore.isRevealed && dataStore.shownLanguage === 'hun'">
+      <v-card-text style="white-space: pre-wrap; word-break: break-word; cursor: pointer;" @click="speak(dataStore.currentRandomSentence.eng)">{{ dataStore.currentRandomSentence.eng
+        }}</v-card-text>
+    </v-card>
+
+    <v-card class="pa-4 mt-4" v-if="dataStore.isRevealed && dataStore.shownLanguage === 'eng'">
+      <v-card-text style="white-space: pre-wrap; word-break: break-word; cursor: pointer;" @click="speak(dataStore.currentRandomSentence.hun)">{{ dataStore.currentRandomSentence.hun
         }}</v-card-text>
     </v-card>
 

@@ -23,7 +23,9 @@ export const useDataStore = defineStore('data', {
     state: () => ({
         topics: data.topics,
         selectedTitles: [],
-        currentRandomSentence: null
+        currentRandomSentence: null,
+        shownLanguage: null,
+        isRevealed: false
     }),
     getters: {
         flatSentences: (state) => {
@@ -69,9 +71,16 @@ export const useDataStore = defineStore('data', {
             const sentences = this.selectedSentences
             if (sentences.length > 0) {
                 this.currentRandomSentence = sentences[Math.floor(Math.random() * sentences.length)]
+                this.shownLanguage = Math.random() < 0.5 ? 'hun' : 'eng'
+                this.isRevealed = false
             } else {
                 this.currentRandomSentence = null
+                this.shownLanguage = null
+                this.isRevealed = false
             }
+        },
+        reveal() {
+            this.isRevealed = true
         }
     }
 })
