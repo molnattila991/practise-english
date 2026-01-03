@@ -7,17 +7,24 @@ defineProps({
   msg: String,
 })
 
+function speak(textToSpeak) {
+  const utterance = new SpeechSynthesisUtterance(textToSpeak);
+  speechSynthesis.speak(utterance);
+}
+
 const counter = useCounterStore()
 </script>
 
 <template>
   <div v-if="dataStore.currentRandomSentence">
     <v-card class="pa-4 mt-4">
-      <v-card-text style="white-space: pre-wrap; word-break: break-word;">{{ dataStore.currentRandomSentence.hun }}</v-card-text>
+      <v-card-text style="white-space: pre-wrap; word-break: break-word; cursor: pointer;" @click="speak(dataStore.currentRandomSentence.hun)">{{ dataStore.currentRandomSentence.hun
+        }}</v-card-text>
     </v-card>
 
     <v-card class="pa-4 mt-4">
-      <v-card-text style="white-space: pre-wrap; word-break: break-word;">{{ dataStore.currentRandomSentence.eng }}</v-card-text>
+      <v-card-text style="white-space: pre-wrap; word-break: break-word; cursor: pointer;" @click="speak(dataStore.currentRandomSentence.eng)">{{ dataStore.currentRandomSentence.eng
+        }}</v-card-text>
     </v-card>
 
     <v-card class="pa-4 mt-4">
