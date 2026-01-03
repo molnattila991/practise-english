@@ -9,6 +9,7 @@ defineProps({
 
 function speak(textToSpeak) {
   const utterance = new SpeechSynthesisUtterance(textToSpeak);
+  utterance.lang = 'en-US';
   speechSynthesis.speak(utterance);
 }
 

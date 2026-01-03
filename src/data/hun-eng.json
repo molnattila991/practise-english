@@ -1,7 +1,7 @@
 {
     "topics": [
         {
-            "title": "All",
+            "title": "B2 Középfok",
             "items": [
                 {
                     "title": "Igeidők",
@@ -3279,6 +3279,146 @@
                                             "details": ""
                                         }
                                     ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "C1 Nyelvhasználat",
+            "items": [
+                {
+                    "title": "Absztrakt és akadémiai nyelv",
+                    "items": [
+                        {
+                            "title": "Vélemény és álláspont",
+                            "sentences": [
+                                {
+                                    "eng": "In my view, this approach fails to address the underlying issue.",
+                                    "hun": "Véleményem szerint ez a megközelítés nem kezeli az alapvető problémát.",
+                                    "level": "C1"
+                                },
+                                {
+                                    "eng": "It can be argued that this decision was taken too hastily.",
+                                    "hun": "Érvelhető, hogy ezt a döntést túl elhamarkodottan hozták meg.",
+                                    "level": "C1"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Ok-okozati összefüggések",
+                            "sentences": [
+                                {
+                                    "eng": "This has led to a significant decline in public trust.",
+                                    "hun": "Ez a közbizalom jelentős csökkenéséhez vezetett.",
+                                    "level": "C1"
+                                },
+                                {
+                                    "eng": "As a result of these measures, productivity increased substantially.",
+                                    "hun": "Ezen intézkedések eredményeként a termelékenység jelentősen nőtt.",
+                                    "level": "C1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Szövegkohézió és érvelés",
+                    "items": [
+                        {
+                            "title": "Kontraszt és engedmény",
+                            "sentences": [
+                                {
+                                    "eng": "Although this solution appears effective, it raises several concerns.",
+                                    "hun": "Bár ez a megoldás hatékonynak tűnik, több aggályt is felvet.",
+                                    "level": "C1"
+                                },
+                                {
+                                    "eng": "Having said that, the overall outcome was largely positive.",
+                                    "hun": "Ennek ellenére az összhatás nagyrészt pozitív volt.",
+                                    "level": "C1"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Hangsúly és kiemelés",
+                            "sentences": [
+                                {
+                                    "eng": "What is particularly striking is the lack of transparency.",
+                                    "hun": "Különösen feltűnő az átláthatóság hiánya.",
+                                    "level": "C1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Stílus és regiszter",
+                    "items": [
+                        {
+                            "title": "Formális megfogalmazás",
+                            "sentences": [
+                                {
+                                    "eng": "We regret to inform you that your application has been unsuccessful.",
+                                    "hun": "Sajnálattal értesítjük, hogy a jelentkezése sikertelen volt.",
+                                    "level": "C1"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Óvatos megfogalmazás (hedging)",
+                            "sentences": [
+                                {
+                                    "eng": "It appears that further investigation may be required.",
+                                    "hun": "Úgy tűnik, további vizsgálatra lehet szükség.",
+                                    "level": "C1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Kollokációk és természetes nyelv",
+                    "items": [
+                        {
+                            "title": "Gyakori C1 kollokációk",
+                            "sentences": [
+                                {
+                                    "eng": "The plan was implemented without delay.",
+                                    "hun": "A tervet késedelem nélkül hajtották végre.",
+                                    "level": "C1"
+                                },
+                                {
+                                    "eng": "She plays a crucial role in the organisation.",
+                                    "hun": "Kulcsszerepet tölt be a szervezetben.",
+                                    "level": "C1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Idiomatikus és pragmatikus nyelv",
+                    "items": [
+                        {
+                            "title": "Visszafogott egyet nem értés",
+                            "sentences": [
+                                {
+                                    "eng": "I'm not entirely convinced this is the best solution.",
+                                    "hun": "Nem vagyok teljesen meggyőződve arról, hogy ez a legjobb megoldás.",
+                                    "level": "C1"
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Finom jelentéskülönbségek",
+                            "sentences": [
+                                {
+                                    "eng": "That may be true to some extent.",
+                                    "hun": "Ez bizonyos mértékig igaz lehet.",
+                                    "level": "C1"
                                 }
                             ]
                         }
