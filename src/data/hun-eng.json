@@ -2916,7 +2916,7 @@
                             "title": "Megszorító értelmű vonatkozói mellékmondatok - Defining relative clauses",
                             "items": [
                                 {
-                                    "title": "Alanyi alárendelés, emberekre",
+                                    "title": "Alanyi alárendelés, emberekre A",
                                     "sentences": [
                                         {
                                             "eng": "The man who is standing at the door is my uncle.",
@@ -2946,7 +2946,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Alanyi alárendelés, tárgyakra",
+                                    "title": "Alanyi alárendelés, tárgyakra A",
                                     "sentences": [
                                         {
                                             "eng": "The book which is on the table is Mary's.",
@@ -2976,7 +2976,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Tárgyas alárendelés, emberekre",
+                                    "title": "Tárgyas alárendelés, emberekre A",
                                     "sentences": [
                                         {
                                             "eng": "The boy who we saw yesterday is French.",
@@ -3006,7 +3006,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Tárgyas alárendelés, tárgyakra",
+                                    "title": "Tárgyas alárendelés, tárgyakra A",
                                     "sentences": [
                                         {
                                             "eng": "The book I bought last week is very exciting.",
@@ -3036,7 +3036,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Birtokos alárendelés, emberekre",
+                                    "title": "Birtokos alárendelés, emberekre A",
                                     "sentences": [
                                         {
                                             "eng": "The boy whose dog is with us now is in Japan for a month.",
@@ -3066,7 +3066,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Birtokos alárendelés, tárgyakra",
+                                    "title": "Birtokos alárendelés, tárgyakra A",
                                     "sentences": [
                                         {
                                             "eng": "The coat of which collar is black is mine.",
@@ -3101,7 +3101,7 @@
                             "title": "Nem megszorító (megengedő) értelmű vonatkozói mellékmondatok - Non-defining relative clauses",
                             "items": [
                                 {
-                                    "title": "Alanyi alárendelés, emberekre",
+                                    "title": "Alanyi alárendelés, emberekre B",
                                     "sentences": [
                                         {
                                             "eng": "My father, who is an engineer, got a new job at the company.",
@@ -3131,7 +3131,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Alanyi alárendelés, tárgyakra",
+                                    "title": "Alanyi alárendelés, tárgyakra B",
                                     "sentences": [
                                         {
                                             "eng": "My last telephone, which was as heavy as a stone, worked perfectly.",
@@ -3161,7 +3161,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Tárgyas alárendelés, emberekre",
+                                    "title": "Tárgyas alárendelés, emberekre B",
                                     "sentences": [
                                         {
                                             "eng": "Billy, who we saw at the concert, has gone to France.",
@@ -3191,7 +3191,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Tárgyas alárendelés, tárgyakra",
+                                    "title": "Tárgyas alárendelés, tárgyakra B",
                                     "sentences": [
                                         {
                                             "eng": "These shoes, which I bought for my son, only fit my daughter.",
@@ -3221,7 +3221,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Birtokos alárendelés, emberekre",
+                                    "title": "Birtokos alárendelés, emberekre B",
                                     "sentences": [
                                         {
                                             "eng": "Mary, whose husband is a soldier, wants to have a baby.",
@@ -3251,7 +3251,7 @@
                                     ]
                                 },
                                 {
-                                    "title": "Birtokos alárendelés, tárgyakra",
+                                    "title": "Birtokos alárendelés, tárgyakra B",
                                     "sentences": [
                                         {
                                             "eng": "My bicycle, of which tyre is always flat, is a piece of rubbish.",
@@ -3521,6 +3521,535 @@
                                     "pairId": "responsibility_1"
                                 }
                             ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Dalrészletek (Song Lyrics)",
+            "items": [
+                {
+                    "title": "Dalok",
+                    "items": [
+                        {
+                            "title": "Linkin park (Song Lyrics)",
+                            "items": [
+                                {
+                                    "title": "Linkin Park – Somewhere I Belong",
+                                    "sentences": [
+                                        {
+                                            "eng": "When this began, I had nothing to say",
+                                            "hun": "Amikor ez elkezdődött, nem volt mit mondanom",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Somewhere I Belong – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I'm feeling like I need to move on",
+                                            "hun": "Úgy érzem, tovább kell lépnem",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Somewhere I Belong – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I want to find something I've wanted all along",
+                                            "hun": "Meg akarom találni azt, amire mindig is vágytam",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Somewhere I Belong – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "Somewhere I belong",
+                                            "hun": "Valahol, ahová tartozom",
+                                            "level": "B2",
+                                            "register": "neutral",
+                                            "details": "Somewhere I Belong – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I will never know myself until I do this on my own",
+                                            "hun": "Soha nem ismerem meg magam, amíg ezt egyedül nem teszem meg",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Somewhere I Belong – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I will never feel anything else until my wounds are healed",
+                                            "hun": "Semmi mást nem fogok érezni, amíg a sebeim be nem gyógyulnak",
+                                            "level": "C1",
+                                            "register": "formal",
+                                            "details": "Somewhere I Belong – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I want to heal, I want to feel",
+                                            "hun": "Gyógyulni akarok, érezni akarok",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Somewhere I Belong – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I want to let go of the pain I've felt so long",
+                                            "hun": "El akarom engedni a fájdalmat, amit olyan régóta érzek",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Somewhere I Belong – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I will never be anything till I break away from me",
+                                            "hun": "Soha nem leszek senki, amíg ki nem szabadulok önmagamból",
+                                            "level": "C1",
+                                            "register": "formal",
+                                            "details": "Somewhere I Belong – Linkin Park"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Linkin Park – Numb",
+                                    "sentences": [
+                                        {
+                                            "eng": "I'm tired of being what you want me to be",
+                                            "hun": "Elegem van abból, hogy az legyek, akinek látni akarsz",
+                                            "level": "C1",
+                                            "register": "informal",
+                                            "details": "Numb – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "Feeling so faithless, lost under the surface",
+                                            "hun": "Annyira hitetlennek érzem magam, elveszve a felszín alatt",
+                                            "level": "C1",
+                                            "register": "formal",
+                                            "details": "Numb – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I don't know what you're expecting of me",
+                                            "hun": "Nem tudom, mit vársz tőlem",
+                                            "level": "B2",
+                                            "register": "neutral",
+                                            "details": "Numb – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "Can't you see that you're smothering me",
+                                            "hun": "Nem látod, hogy megfojtasz",
+                                            "level": "C1",
+                                            "register": "informal",
+                                            "details": "Numb – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "Every step that I take is another mistake to you",
+                                            "hun": "Minden lépésem újabb hibának tűnik számodra",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Numb – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I've become so numb, I can't feel you there",
+                                            "hun": "Annyira érzéketlenné váltam, hogy már nem érezlek",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Numb – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I'm becoming this, all I want to do",
+                                            "hun": "Ezzé válok, pedig csak azt szeretném",
+                                            "level": "B2",
+                                            "register": "neutral",
+                                            "details": "Numb – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "I know I may end up failing too",
+                                            "hun": "Tudom, hogy végül én is kudarcot vallhatok",
+                                            "level": "C1",
+                                            "register": "formal",
+                                            "details": "Numb – Linkin Park"
+                                        },
+                                        {
+                                            "eng": "But I know you were just like me",
+                                            "hun": "De tudom, hogy te is pont olyan voltál, mint én",
+                                            "level": "B2",
+                                            "register": "neutral",
+                                            "details": "Numb – Linkin Park"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Bring me the horizon (Song Lyrics)",
+                            "items": [
+                                {
+                                    "title": "Bring Me The Horizon – Avalanche",
+                                    "sentences": [
+                                        {
+                                            "eng": "I feel myself suffocating",
+                                            "hun": "Úgy érzem, megfulladok",
+                                            "level": "C1",
+                                            "register": "informal",
+                                            "details": "Avalanche – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "There is a hell I feel inside",
+                                            "hun": "Van egy pokol, amit belül érzek",
+                                            "level": "C1",
+                                            "register": "formal",
+                                            "details": "Avalanche – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "You say this is suicide",
+                                            "hun": "Azt mondod, ez öngyilkosság",
+                                            "level": "B2",
+                                            "register": "neutral",
+                                            "details": "Avalanche – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "I need a cure for me",
+                                            "hun": "Szükségem van egy gyógyírra magamnak",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Avalanche – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "I feel the pressure building",
+                                            "hun": "Érzem, ahogy a nyomás egyre nő",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Avalanche – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "It's like an avalanche",
+                                            "hun": "Olyan, mint egy lavina",
+                                            "level": "B2",
+                                            "register": "neutral",
+                                            "details": "Avalanche – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "I think I'm going nowhere",
+                                            "hun": "Azt hiszem, sehová sem jutok",
+                                            "level": "C1",
+                                            "register": "informal",
+                                            "details": "Avalanche – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "I feel like I'm just another voice unheard",
+                                            "hun": "Úgy érzem, csak egy újabb meghallgatatlan hang vagyok",
+                                            "level": "C1",
+                                            "register": "formal",
+                                            "details": "Avalanche – Bring Me The Horizon"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Bring Me The Horizon – Throne",
+                                    "sentences": [
+                                        {
+                                            "eng": "Remember the moment you left me alone",
+                                            "hun": "Emlékezz arra a pillanatra, amikor magamra hagytál",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Throne – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "I'll bite my tongue, I won't say a word",
+                                            "hun": "A nyelvembe harapok, nem szólalok meg",
+                                            "level": "C1",
+                                            "register": "informal",
+                                            "details": "Throne – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "Every wound will shape me",
+                                            "hun": "Minden seb formál engem",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Throne – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "These scars will build my throne",
+                                            "hun": "Ezek a hegek építik fel a trónomat",
+                                            "level": "C1",
+                                            "register": "formal",
+                                            "details": "Throne – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "The sticks and stones that you threw",
+                                            "hun": "A botok és kövek, amiket hozzám vágtál",
+                                            "level": "B2",
+                                            "register": "neutral",
+                                            "details": "Throne – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "I'll make you eat those words",
+                                            "hun": "Meg fogom veled etetni a szavaidat",
+                                            "level": "C1",
+                                            "register": "informal",
+                                            "details": "Throne – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "So you can throw me to the wolves",
+                                            "hun": "Akár a farkasok közé is dobhatsz",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Throne – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "Tomorrow I'll come back stronger",
+                                            "hun": "Holnap erősebben térek vissza",
+                                            "level": "B2",
+                                            "register": "neutral",
+                                            "details": "Throne – Bring Me The Horizon"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "title": "Bring Me The Horizon – Can You Feel My Heart",
+                                    "sentences": [
+                                        {
+                                            "eng": "I've been searching for something",
+                                            "hun": "Valamit keresek már egy ideje",
+                                            "level": "B2",
+                                            "register": "neutral",
+                                            "details": "Can You Feel My Heart – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "I'm scared to get close and I hate being alone",
+                                            "hun": "Félek közel kerülni, és gyűlölök egyedül lenni",
+                                            "level": "C1",
+                                            "register": "informal",
+                                            "details": "Can You Feel My Heart – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "I long for that feeling to not feel at all",
+                                            "hun": "Arra vágyom, hogy ne érezzek semmit",
+                                            "level": "C1",
+                                            "register": "formal",
+                                            "details": "Can You Feel My Heart – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "The higher I get, the lower I'll sink",
+                                            "hun": "Minél magasabbra jutok, annál mélyebbre süllyedek",
+                                            "level": "C1",
+                                            "register": "formal",
+                                            "details": "Can You Feel My Heart – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "I can't drown my demons, they know how to swim",
+                                            "hun": "Nem tudom megfojtani a démonaimat, tudnak úszni",
+                                            "level": "C1",
+                                            "register": "informal",
+                                            "details": "Can You Feel My Heart – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "Can you feel my heart",
+                                            "hun": "Érzed a szívemet",
+                                            "level": "B2",
+                                            "register": "neutral",
+                                            "details": "Can You Feel My Heart – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "This is not where I belong",
+                                            "hun": "Ez nem az a hely, ahová tartozom",
+                                            "level": "C1",
+                                            "register": "neutral",
+                                            "details": "Can You Feel My Heart – Bring Me The Horizon"
+                                        },
+                                        {
+                                            "eng": "I'm just a kid who can't let go",
+                                            "hun": "Csak egy gyerek vagyok, aki nem tud elengedni",
+                                            "level": "C1",
+                                            "register": "informal",
+                                            "details": "Can You Feel My Heart – Bring Me The Horizon"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Rock",
+                    "sentences": [
+                        {
+                            "eng": "Imagine there's no heaven, it's easy if you try",
+                            "hun": "Képzeld el, hogy nincs mennyország, könnyű, ha próbálod",
+                            "level": "C1",
+                            "register": "neutral",
+                            "details": "Imagine – John Lennon"
+                        },
+                        {
+                            "eng": "We all just want to be big rockstars",
+                            "hun": "Mindannyian nagy rocksztárok akarunk lenni",
+                            "level": "B2",
+                            "register": "informal",
+                            "details": "Rockstar – Nickelback"
+                        },
+                        {
+                            "eng": "You can't always get what you want",
+                            "hun": "Nem mindig kapod meg, amit akarsz",
+                            "level": "C1",
+                            "register": "neutral",
+                            "details": "You Can't Always Get What You Want – The Rolling Stones"
+                        },
+                        {
+                            "eng": "Is this the real life, is this just fantasy",
+                            "hun": "Ez a valóság, vagy csak fantázia",
+                            "level": "C1",
+                            "register": "neutral",
+                            "details": "Bohemian Rhapsody – Queen"
+                        },
+                        {
+                            "eng": "We were both young when I first saw you",
+                            "hun": "Mindketten fiatalok voltunk, amikor először megláttalak",
+                            "level": "B2",
+                            "register": "neutral",
+                            "details": "Love Story – Taylor Swift (classic-style pop crossover)"
+                        },
+                        {
+                            "eng": "Here comes the sun, and I say it's all right",
+                            "hun": "Itt jön a nap, és azt mondom, minden rendben",
+                            "level": "B2",
+                            "register": "neutral",
+                            "details": "Here Comes the Sun – The Beatles"
+                        },
+                        {
+                            "eng": "We don't need no education",
+                            "hun": "Nincs szükségünk oktatásra",
+                            "level": "C1",
+                            "register": "informal",
+                            "details": "Another Brick in the Wall – Pink Floyd"
+                        },
+                        {
+                            "eng": "There's a lady who's sure all that glitters is gold",
+                            "hun": "Van egy hölgy, aki biztos benne, hogy minden arany, ami csillog",
+                            "level": "C1",
+                            "register": "formal",
+                            "details": "Stairway to Heaven – Led Zeppelin"
+                        },
+                        {
+                            "eng": "You are young and life is long",
+                            "hun": "Fiatal vagy, és az élet hosszú",
+                            "level": "C1",
+                            "register": "neutral",
+                            "details": "Time – Pink Floyd"
+                        },
+                        {
+                            "eng": "I still haven't found what I'm looking for",
+                            "hun": "Még mindig nem találtam meg, amit keresek",
+                            "level": "C1",
+                            "register": "neutral",
+                            "details": "I Still Haven't Found What I'm Looking For – U2"
+                        },
+                        {
+                            "eng": "We will, we will rock you",
+                            "hun": "Mi bizony fel fogunk rázni téged",
+                            "level": "B2",
+                            "register": "informal",
+                            "details": "We Will Rock You – Queen"
+                        },
+                        {
+                            "eng": "It's been a hard day's night, and I've been working like a dog",
+                            "hun": "Kemény napom volt, és úgy dolgoztam, mint egy kutya",
+                            "level": "B2",
+                            "register": "informal",
+                            "details": "A Hard Day's Night – The Beatles"
+                        },
+                        {
+                            "eng": "With the lights out, it's less dangerous",
+                            "hun": "Kikapcsolt fényekkel kevésbé veszélyes",
+                            "level": "C1",
+                            "register": "neutral",
+                            "details": "Smells Like Teen Spirit – Nirvana"
+                        },
+                        {
+                            "eng": "I tried so hard and got so far",
+                            "hun": "Olyan keményen próbálkoztam, és mégis ilyen messzire jutottam",
+                            "level": "B2",
+                            "register": "informal",
+                            "details": "In the End – Linkin Park"
+                        },
+                        {
+                            "eng": "I tried so hard to break away",
+                            "hun": "Olyan keményen próbáltam kitörni",
+                            "level": "B2",
+                            "register": "informal",
+                            "details": "In the End – Linkin Park"
+                        },
+                        {
+                            "eng": "I’m one step closer to the edge",
+                            "hun": "Egy lépéssel közelebb vagyok a szakadék széléhez",
+                            "level": "C1",
+                            "register": "informal",
+                            "details": "One Step Closer – Linkin Park"
+                        },
+                        {
+                            "eng": "I put my trust in you",
+                            "hun": "Bíztam benned",
+                            "level": "B2",
+                            "register": "neutral",
+                            "details": "In the End – Linkin Park"
+                        },
+                        {
+                            "eng": "I want to heal, I want to feel",
+                            "hun": "Gyógyulni akarok, érezni akarok",
+                            "level": "C1",
+                            "register": "neutral",
+                            "details": "Numb – Linkin Park"
+                        },
+                        {
+                            "eng": "I’ve become so numb",
+                            "hun": "Annyira érzéketlenné váltam",
+                            "level": "C1",
+                            "register": "neutral",
+                            "details": "Numb – Linkin Park"
+                        },
+                        {
+                            "eng": "I’m tired of being what you want me to be",
+                            "hun": "Elegem van abból, hogy az legyek, akinek látni akarsz",
+                            "level": "C1",
+                            "register": "informal",
+                            "details": "Numb – Linkin Park"
+                        },
+                        {
+                            "eng": "Who cares if one more light goes out",
+                            "hun": "Kit érdekel, ha még egy fény kialszik",
+                            "level": "C1",
+                            "register": "neutral",
+                            "details": "One More Light – Linkin Park"
+                        }
+                    ]
+                },
+                {
+                    "title": "Pop",
+                    "sentences": [
+                        {
+                            "eng": "I'm on top of the world, hey",
+                            "hun": "A világ tetején érzem magam",
+                            "level": "B2",
+                            "register": "informal",
+                            "details": "On Top of the World – Imagine Dragons"
+                        },
+                        {
+                            "eng": "Hello from the other side",
+                            "hun": "Helló a másik oldalról",
+                            "level": "B2",
+                            "register": "neutral",
+                            "details": "Hello – Adele"
+                        }
+                    ]
+                },
+                {
+                    "title": "Alternative / Indie",
+                    "sentences": [
+                        {
+                            "eng": "This is the beginning of anything you want",
+                            "hun": "Ez bármi kezdetét jelentheti, amit csak akarsz",
+                            "level": "C1",
+                            "register": "neutral",
+                            "details": "Youth – Daughter"
+                        },
+                        {
+                            "eng": "Take me to church, I'll worship like a dog",
+                            "hun": "Vigyél templomba, kutyaként imádkozom",
+                            "level": "C1",
+                            "register": "formal",
+                            "details": "Take Me to Church – Hozier"
                         }
                     ]
                 }
