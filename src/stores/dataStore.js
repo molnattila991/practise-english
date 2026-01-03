@@ -23,6 +23,7 @@ export const useDataStore = defineStore('data', {
     state: () => ({
         topics: data.topics,
         selectedTitles: [],
+        expandedTitles: [],
         currentRandomSentence: null,
         shownLanguage: null,
         isRevealed: false
@@ -47,6 +48,14 @@ export const useDataStore = defineStore('data', {
                 })
             } else {
                 this.selectedTitles = this.selectedTitles.filter(title => !titles.includes(title))
+            }
+            this.saveToLocalStorage()
+        },
+        toggleExpanded(title) {
+            if (this.expandedTitles.includes(title)) {
+                this.expandedTitles = this.expandedTitles.filter(t => t !== title)
+            } else {
+                this.expandedTitles.push(title)
             }
             this.saveToLocalStorage()
         },
